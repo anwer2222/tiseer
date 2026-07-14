@@ -330,6 +330,11 @@ export default function App() {
     }
   };
 
+  // جلب السطر العربي الفصيح في اللحظة الزمنية الحالية لإدراجه في الرمز الجديد
+  const activeArabicCueForMoment = (arabicCues.length > 0 ? arabicCues : fallbackArabicCues).find(
+    cue => currentTime >= cue.startTime && currentTime <= cue.endTime
+  );
+
   return (
     <div dir="rtl" className="min-h-screen bg-background text-foreground font-sans flex flex-col justify-between overflow-x-hidden select-none">
       
@@ -567,6 +572,26 @@ export default function App() {
                   <span className="w-1.5 h-1.5 rounded-full bg-primary animate-pulse" />
                   الترجمة التفاعلية الفورية من ملفات الـ SRT المزامنة
                 </div>
+
+                {/* الميزة الجديدة: رمز "ع" يظهر عند وجود ترجمة نشطة لإظهار الجملة الفصحى الكاملة */}
+                {activeArabicCueForMoment && (
+                  <div className="absolute bottom-2 left-3 group/arabic-full">
+                    <button
+                      className="p-1 text-muted-foreground hover:text-primary transition-all duration-150 rounded hover:bg-secondary/40 flex items-center justify-center"
+                      title="عرض الجملة العربية الفصحى الكاملة"
+                    >
+                      <span className="text-[10px] font-bold border border-border px-1.5 py-0.5 rounded bg-secondary shadow-sm">ع</span>
+                    </button>
+                    {/* التلميح العائم (Tooltip) */}
+                    <div
+                      className="absolute bottom-full left-0 mb-2 w-72 md:w-96 bg-popover text-popover-foreground border border-border p-3.5 rounded-xl shadow-2xl text-right text-sm leading-relaxed hidden group-hover/arabic-full:block z-50 animate-in fade-in slide-in-from-bottom-2 duration-200"
+                      dir="rtl"
+                    >
+                      <p className="font-bold text-xs text-primary mb-1.5">الجملة العربية الفصحى الكاملة:</p>
+                      <p className="font-sans font-bold text-foreground text-base leading-normal">{activeArabicCueForMoment.text}</p>
+                    </div>
+                  </div>
+                )}
                 
                 <AnimatePresence mode="wait">
                   {activeSubtitle ? (
