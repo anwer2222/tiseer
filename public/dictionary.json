@@ -1,1948 +1,1960 @@
 {
-  "Your": {
-    "translation": "Your",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "Royal": {
-    "translation": "Royal",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "Highness": {
-    "translation": "Highness",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "Forgive": {
-    "translation": "Forgive",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "me": {
-    "translation": "me",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "Lawrence": {
-    "translation": "Lawrence",
-    "root": "",
-    "type": "Noun / Proper Name",
-    "explanation": ""
-  },
-  "He's": {
-    "translation": "He is",
-    "root": "",
-    "type": "Contraction",
-    "explanation": ""
-  },
-  "always": {
-    "translation": "always",
-    "root": "",
-    "type": "Adverb",
-    "explanation": ""
-  },
-  "late": {
-    "translation": "late",
-    "root": "",
-    "type": "Adjective / Adverb",
-    "explanation": ""
-  },
-  "Does": {
-    "translation": "Does",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "it": {
-    "translation": "it",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "deliberately": {
-    "translation": "deliberately",
-    "root": "",
-    "type": "Adverb",
-    "explanation": ""
-  },
-  "I'm": {
-    "translation": "I am",
-    "root": "",
-    "type": "Contraction",
-    "explanation": ""
-  },
-  "sure": {
-    "translation": "sure",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "My": {
-    "translation": "My",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "lecture": {
-    "translation": "lecture",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "at": {
-    "translation": "at",
-    "root": "",
-    "type": "Preposition",
-    "explanation": ""
-  },
-  "the": {
-    "translation": "the",
-    "root": "",
-    "type": "Article",
-    "explanation": ""
-  },
-  "RGS": {
-    "translation": "Royal Geographical Society",
-    "root": "",
-    "type": "Abbreviation",
-    "explanation": ""
-  },
-  "overran": {
-    "translation": "overran",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "horribly": {
-    "translation": "horribly",
-    "root": "",
-    "type": "Adverb",
-    "explanation": ""
-  },
-  "You're": {
-    "translation": "You are",
-    "root": "",
-    "type": "Contraction",
-    "explanation": ""
-  },
-  "in": {
-    "translation": "in",
-    "root": "",
-    "type": "Preposition",
-    "explanation": ""
-  },
-  "great": {
-    "translation": "great",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "demand": {
-    "translation": "demand",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "everyone": {
-    "translation": "everyone",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "wanting": {
-    "translation": "wanting",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "to": {
-    "translation": "to",
-    "root": "",
-    "type": "Preposition",
-    "explanation": ""
-  },
-  "have": {
-    "translation": "have",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "their": {
-    "translation": "their",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "photograph": {
-    "translation": "photograph",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "taken": {
-    "translation": "taken",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "with": {
-    "translation": "with",
-    "root": "",
-    "type": "Preposition",
-    "explanation": ""
-  },
-  "you": {
-    "translation": "you",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "It": {
-    "translation": "It",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "most": {
-    "translation": "most",
-    "root": "",
-    "type": "Adverb / Adjective",
-    "explanation": ""
-  },
-  "tiresome": {
-    "translation": "tiresome",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "Ha": {
-    "translation": "Ha",
-    "root": "",
-    "type": "Interjection",
-    "explanation": ""
-  },
-  "Ah": {
-    "translation": "Ah",
-    "root": "",
-    "type": "Interjection",
-    "explanation": ""
-  },
-  "Philby": {
-    "translation": "Philby",
-    "root": "",
-    "type": "Noun / Proper Name",
-    "explanation": ""
-  },
-  "old": {
-    "translation": "old",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "man": {
-    "translation": "man",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "Long": {
-    "translation": "Long",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "time": {
-    "translation": "time",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "no": {
-    "translation": "no",
-    "root": "",
-    "type": "Determiner / Adverb",
-    "explanation": ""
-  },
-  "see": {
-    "translation": "see",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "trust": {
-    "translation": "trust",
-    "root": "",
-    "type": "Verb / Noun",
-    "explanation": ""
-  },
-  "Foreign": {
-    "translation": "Foreign",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "Office": {
-    "translation": "Office",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "is": {
-    "translation": "is",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "making": {
-    "translation": "making",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "full": {
-    "translation": "full",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "use": {
-    "translation": "use",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "of": {
-    "translation": "of",
-    "root": "",
-    "type": "Preposition",
-    "explanation": ""
-  },
-  "your": {
-    "translation": "your",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "talents": {
-    "translation": "talents",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "And": {
-    "translation": "And",
-    "root": "",
-    "type": "Conjunction",
-    "explanation": ""
-  },
-  "must": {
-    "translation": "must",
-    "root": "",
-    "type": "Modal Verb",
-    "explanation": ""
-  },
-  "be": {
-    "translation": "be",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "Prince": {
-    "translation": "Prince",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "Faisal": {
-    "translation": "Faisal",
-    "root": "",
-    "type": "Noun / Proper Name",
-    "explanation": ""
-  },
-  "Not": {
-    "translation": "Not",
-    "root": "",
-    "type": "Adverb",
-    "explanation": ""
-  },
-  "finding": {
-    "translation": "finding",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "England": {
-    "translation": "England",
-    "root": "",
-    "type": "Noun / Proper Name",
-    "explanation": ""
-  },
-  "too": {
-    "translation": "too",
-    "root": "",
-    "type": "Adverb",
-    "explanation": ""
-  },
-  "chilly": {
-    "translation": "chilly",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "On": {
-    "translation": "On",
-    "root": "",
-    "type": "Preposition",
-    "explanation": ""
-  },
-  "contrary": {
-    "translation": "contrary",
-    "root": "",
-    "type": "Noun / Adjective",
-    "explanation": ""
-  },
-  "weather": {
-    "translation": "weather",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "climate": {
-    "translation": "climate",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "Spoken": {
-    "translation": "Spoken",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "like": {
-    "translation": "like",
-    "root": "",
-    "type": "Preposition / Verb",
-    "explanation": ""
-  },
-  "a": {
-    "translation": "a",
-    "root": "",
-    "type": "Article",
-    "explanation": ""
-  },
-  "true": {
-    "translation": "true",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "Englishman": {
-    "translation": "Englishman",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "Mark": {
-    "translation": "Mark",
-    "root": "",
-    "type": "Verb / Noun",
-    "explanation": ""
-  },
-  "my": {
-    "translation": "my",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "words": {
-    "translation": "words",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "there": {
-    "translation": "there",
-    "root": "",
-    "type": "Pronoun / Adverb",
-    "explanation": ""
-  },
-  "revolt": {
-    "translation": "revolt",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "brewing": {
-    "translation": "brewing",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "Mesopotamia": {
-    "translation": "Mesopotamia",
-    "root": "",
-    "type": "Noun / Proper Name",
-    "explanation": ""
-  },
-  "We": {
-    "translation": "We",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "honor": {
-    "translation": "honor",
-    "root": "",
-    "type": "Verb / Noun",
-    "explanation": ""
-  },
-  "promise": {
-    "translation": "promise",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "self": {
-    "translation": "self",
-    "root": "",
-    "type": "Noun / Prefix",
-    "explanation": ""
-  },
-  "government": {
-    "translation": "government",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "as": {
-    "translation": "as",
-    "root": "",
-    "type": "Conjunction / Preposition",
-    "explanation": ""
-  },
-  "laid": {
-    "translation": "laid",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "out": {
-    "translation": "out",
-    "root": "",
-    "type": "Adverb / Preposition",
-    "explanation": ""
-  },
-  "Anglo": {
-    "translation": "Anglo",
-    "root": "",
-    "type": "Prefix / Adjective",
-    "explanation": ""
-  },
-  "French": {
-    "translation": "French",
-    "root": "",
-    "type": "Adjective / Noun",
-    "explanation": ""
-  },
-  "declaration": {
-    "translation": "declaration",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "Wouldn't": {
-    "translation": "Would not",
-    "root": "",
-    "type": "Contraction",
-    "explanation": ""
-  },
-  "agree": {
-    "translation": "agree",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "would": {
-    "translation": "would",
-    "root": "",
-    "type": "Modal Verb",
-    "explanation": ""
-  },
-  "Absolutely": {
-    "translation": "Absolutely",
-    "root": "",
-    "type": "Adverb",
-    "explanation": ""
-  },
-  "we": {
-    "translation": "we",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "let": {
-    "translation": "let",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "bin": {
-    "translation": "bin",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "Hussein": {
-    "translation": "Hussein",
-    "root": "",
-    "type": "Noun / Proper Name",
-    "explanation": ""
-  },
-  "govern": {
-    "translation": "govern",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "estimation": {
-    "translation": "estimation",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "finest": {
-    "translation": "finest",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "Arab": {
-    "translation": "Arab",
-    "root": "",
-    "type": "Noun / Adjective",
-    "explanation": ""
-  },
-  "leader": {
-    "translation": "leader",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "since": {
-    "translation": "since",
-    "root": "",
-    "type": "Preposition / Conjunction",
-    "explanation": ""
-  },
-  "Saladin": {
-    "translation": "Saladin",
-    "root": "",
-    "type": "Noun / Proper Name",
-    "explanation": ""
-  },
-  "If": {
-    "translation": "If",
-    "root": "",
-    "type": "Conjunction",
-    "explanation": ""
-  },
-  "may": {
-    "translation": "may",
-    "root": "",
-    "type": "Modal Verb",
-    "explanation": ""
-  },
-  "No": {
-    "translation": "No",
-    "root": "",
-    "type": "Determiner / Adverb",
-    "explanation": ""
-  },
-  "commands": {
-    "translation": "commands",
-    "root": "",
-    "type": "Verb / Noun",
-    "explanation": ""
-  },
-  "more": {
-    "translation": "more",
-    "root": "",
-    "type": "Adjective / Adverb",
-    "explanation": ""
-  },
-  "respect": {
-    "translation": "respect",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "across": {
-    "translation": "across",
-    "root": "",
-    "type": "Preposition / Adverb",
-    "explanation": ""
-  },
-  "Arabia": {
-    "translation": "Arabia",
-    "root": "",
-    "type": "Noun / Proper Name",
-    "explanation": ""
-  },
-  "than": {
-    "translation": "than",
-    "root": "",
-    "type": "Conjunction",
-    "explanation": ""
-  },
-  "father": {
-    "translation": "father",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "Abdulaziz": {
-    "translation": "Abdulaziz",
-    "root": "",
-    "type": "Noun / Proper Name",
-    "explanation": ""
-  },
-  "Al": {
-    "translation": "Al",
-    "root": "",
-    "type": "Article / Prefix",
-    "explanation": ""
-  },
-  "Saud": {
-    "translation": "Saud",
-    "root": "",
-    "type": "Noun / Proper Name",
-    "explanation": ""
-  },
-  "This": {
-    "translation": "This",
-    "root": "",
-    "type": "Pronoun / Determiner",
-    "explanation": ""
-  },
-  "learned": {
-    "translation": "learned",
-    "root": "",
-    "type": "Verb / Adjective",
-    "explanation": ""
-  },
-  "when": {
-    "translation": "when",
-    "root": "",
-    "type": "Conjunction / Adverb",
-    "explanation": ""
-  },
-  "rode": {
-    "translation": "rode",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "right": {
-    "translation": "right",
-    "root": "",
-    "type": "Adjective / Adverb",
-    "explanation": ""
-  },
-  "into": {
-    "translation": "into",
-    "root": "",
-    "type": "Preposition",
-    "explanation": ""
-  },
-  "heart": {
-    "translation": "heart",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "territory": {
-    "translation": "territory",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "wonder": {
-    "translation": "wonder",
-    "root": "",
-    "type": "Verb / Noun",
-    "explanation": ""
-  },
-  "how": {
-    "translation": "how",
-    "root": "",
-    "type": "Adverb",
-    "explanation": ""
-  },
-  "could": {
-    "translation": "could",
-    "root": "",
-    "type": "Modal Verb",
-    "explanation": ""
-  },
-  "enter": {
-    "translation": "enter",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "kingdom": {
-    "translation": "kingdom",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "Hejaz": {
-    "translation": "Hejaz",
-    "root": "",
-    "type": "Noun / Proper Name",
-    "explanation": ""
-  },
-  "unannounced": {
-    "translation": "unannounced",
-    "root": "",
-    "type": "Adjective / Adverb",
-    "explanation": ""
-  },
-  "invitation": {
-    "translation": "invitation",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "sun": {
-    "translation": "sun",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "sky": {
-    "translation": "sky",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "protested": {
-    "translation": "protested",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "Because": {
-    "translation": "Because",
-    "root": "",
-    "type": "Conjunction",
-    "explanation": ""
-  },
-  "traveled": {
-    "translation": "traveled",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "on": {
-    "translation": "on",
-    "root": "",
-    "type": "Preposition / Adverb",
-    "explanation": ""
-  },
-  "authority": {
-    "translation": "authority",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "greater": {
-    "translation": "greater",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "friend": {
-    "translation": "friend",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "whole": {
-    "translation": "whole",
-    "root": "",
-    "type": "Adjective / Noun",
-    "explanation": ""
-  },
-  "What": {
-    "translation": "What",
-    "root": "",
-    "type": "Pronoun / Adjective",
-    "explanation": ""
-  },
-  "do": {
-    "translation": "do",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "Is": {
-    "translation": "Is",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "Could": {
-    "translation": "Could",
-    "root": "",
-    "type": "Modal Verb",
-    "explanation": ""
-  },
-  "Emir": {
-    "translation": "Emir",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "one": {
-    "translation": "one",
-    "root": "",
-    "type": "Noun / Pronoun / Adjective",
-    "explanation": ""
-  },
-  "day": {
-    "translation": "day",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "King": {
-    "translation": "King",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "all": {
-    "translation": "all",
-    "root": "",
-    "type": "Determiner / Pronoun",
-    "explanation": ""
-  },
-  "thought": {
-    "translation": "thought",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "an": {
-    "translation": "an",
-    "root": "",
-    "type": "Article",
-    "explanation": ""
-  },
-  "never": {
-    "translation": "never",
-    "root": "",
-    "type": "Adverb",
-    "explanation": ""
-  },
-  "discussed": {
-    "translation": "discussed",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "politics": {
-    "translation": "politics",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "over": {
-    "translation": "over",
-    "root": "",
-    "type": "Preposition / Adverb",
-    "explanation": ""
-  },
-  "dinner": {
-    "translation": "dinner",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "table": {
-    "translation": "table",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "How": {
-    "translation": "How",
-    "root": "",
-    "type": "Adverb",
-    "explanation": ""
-  },
-  "restoration": {
-    "translation": "restoration",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "going": {
-    "translation": "going",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "Never": {
-    "translation": "Never",
-    "root": "",
-    "type": "Adverb",
-    "explanation": ""
-  },
-  "buy": {
-    "translation": "buy",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "castle": {
-    "translation": "castle",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "Montague": {
-    "translation": "Montague",
-    "root": "",
-    "type": "Noun / Proper Name",
-    "explanation": ""
-  },
-  "Gertrude": {
-    "translation": "Gertrude",
-    "root": "",
-    "type": "Noun / Proper Name",
-    "explanation": ""
-  },
-  "Bell": {
-    "translation": "Bell",
-    "root": "",
-    "type": "Noun / Proper Name",
-    "explanation": ""
-  },
-  "persuasive": {
-    "translation": "persuasive",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "matter": {
-    "translation": "matter",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "read": {
-    "translation": "read",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "her": {
-    "translation": "her",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "report": {
-    "translation": "report",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "keep": {
-    "translation": "keep",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "avoiding": {
-    "translation": "avoiding",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "Wait": {
-    "translation": "Wait",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "until": {
-    "translation": "until",
-    "root": "",
-    "type": "Preposition / Conjunction",
-    "explanation": ""
-  },
-  "he": {
-    "translation": "he",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "drunk": {
-    "translation": "drunk",
-    "root": "",
-    "type": "Verb / Adjective",
-    "explanation": ""
-  },
-  "his": {
-    "translation": "his",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "first": {
-    "translation": "first",
-    "root": "",
-    "type": "Adjective / Adverb",
-    "explanation": ""
-  },
-  "whiskey": {
-    "translation": "whiskey",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "master": {
-    "translation": "master",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "has": {
-    "translation": "has",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "asked": {
-    "translation": "asked",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "for": {
-    "translation": "for",
-    "root": "",
-    "type": "Preposition / Conjunction",
-    "explanation": ""
-  },
-  "mint": {
-    "translation": "mint",
-    "root": "",
-    "type": "Noun / Adjective",
-    "explanation": ""
-  },
-  "tea": {
-    "translation": "tea",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "Would": {
-    "translation": "Would",
-    "root": "",
-    "type": "Modal Verb",
-    "explanation": ""
-  },
-  "kind": {
-    "translation": "kind",
-    "root": "",
-    "type": "Adjective / Noun",
-    "explanation": ""
-  },
-  "enough": {
-    "translation": "enough",
-    "root": "",
-    "type": "Adverb / Adjective",
-    "explanation": ""
-  },
-  "show": {
-    "translation": "show",
-    "root": "",
-    "type": "Verb / Noun",
-    "explanation": ""
-  },
-  "us": {
-    "translation": "us",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "made": {
-    "translation": "made",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "Of": {
-    "translation": "Of",
-    "root": "",
-    "type": "Preposition",
-    "explanation": ""
-  },
-  "course": {
-    "translation": "course",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "Over": {
-    "translation": "Over",
-    "root": "",
-    "type": "Preposition / Adverb",
-    "explanation": ""
-  },
-  "All": {
-    "translation": "All",
-    "root": "",
-    "type": "Determiner / Pronoun",
-    "explanation": ""
-  },
-  "good": {
-    "translation": "good",
-    "root": "",
-    "type": "Adjective / Noun",
-    "explanation": ""
-  },
-  "simply": {
-    "translation": "simply",
-    "root": "",
-    "type": "Adverb",
-    "explanation": ""
-  },
-  "don't": {
-    "translation": "do not",
-    "root": "",
-    "type": "Contraction",
-    "explanation": ""
-  },
-  "resources": {
-    "translation": "resources",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "maintain": {
-    "translation": "maintain",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "control": {
-    "translation": "control",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "Day": {
-    "translation": "Day",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "after": {
-    "translation": "after",
-    "root": "",
-    "type": "Preposition / Conjunction",
-    "explanation": ""
-  },
-  "week": {
-    "translation": "week",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "continuance": {
-    "translation": "continuance",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "this": {
-    "translation": "this",
-    "root": "",
-    "type": "Pronoun / Determiner",
-    "explanation": ""
-  },
-  "wasteful": {
-    "translation": "wasteful",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "miserable": {
-    "translation": "miserable",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "sporadic": {
-    "translation": "sporadic",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "warfare": {
-    "translation": "warfare",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "yeah": {
-    "translation": "yeah",
-    "root": "",
-    "type": "Interjection",
-    "explanation": ""
-  },
-  "single": {
-    "translation": "single",
-    "root": "",
-    "type": "Adjective / Noun",
-    "explanation": ""
-  },
-  "press": {
-    "translation": "press",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "upon": {
-    "translation": "upon",
-    "root": "",
-    "type": "Preposition",
-    "explanation": ""
-  },
-  "subject": {
-    "translation": "subject",
-    "root": "",
-    "type": "Noun / Adjective",
-    "explanation": ""
-  },
-  "Cradle": {
-    "translation": "Cradle",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "civilization": {
-    "translation": "civilization",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "and": {
-    "translation": "and",
-    "root": "",
-    "type": "Conjunction",
-    "explanation": ""
-  },
-  "they": {
-    "translation": "they",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "can": {
-    "translation": "can",
-    "root": "",
-    "type": "Modal Verb",
-    "explanation": ""
-  },
-  "afford": {
-    "translation": "afford",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "ink": {
-    "translation": "ink",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "Doesn": {
-    "translation": "Does not",
-    "root": "",
-    "type": "Contraction",
-    "explanation": ""
-  },
-  "remind": {
-    "translation": "remind",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "being": {
-    "translation": "being",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "home": {
-    "translation": "home",
-    "root": "",
-    "type": "Noun / Adverb",
-    "explanation": ""
-  },
-  "The": {
-    "translation": "The",
-    "root": "",
-    "type": "Article",
-    "explanation": ""
-  },
-  "men": {
-    "translation": "men",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "discussing": {
-    "translation": "discussing",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "affairs": {
-    "translation": "affairs",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "state": {
-    "translation": "state",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "feel": {
-    "translation": "feel",
-    "root": "",
-    "type": "Verb / Noun",
-    "explanation": ""
-  },
-  "Before": {
-    "translation": "Before",
-    "root": "",
-    "type": "Preposition / Conjunction / Adverb",
-    "explanation": ""
-  },
-  "leave": {
-    "translation": "leave",
-    "root": "",
-    "type": "Verb / Noun",
-    "explanation": ""
-  },
-  "come": {
-    "translation": "come",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "club": {
-    "translation": "club",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "guest": {
-    "translation": "guest",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "food": {
-    "translation": "food",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "excellent": {
-    "translation": "excellent",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "that": {
-    "translation": "that",
-    "root": "",
-    "type": "Pronoun / Conjunction",
-    "explanation": ""
-  },
-  "very": {
-    "translation": "very",
-    "root": "",
-    "type": "Adverb / Adjective",
-    "explanation": ""
-  },
-  "much": {
-    "translation": "much",
-    "root": "",
-    "type": "Adverb / Adjective",
-    "explanation": ""
-  },
-  "Lord": {
-    "translation": "Lord",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "Curzon": {
-    "translation": "Curzon",
-    "root": "",
-    "type": "Noun / Proper Name",
-    "explanation": ""
-  },
-  "But": {
-    "translation": "But",
-    "root": "",
-    "type": "Conjunction",
-    "explanation": ""
-  },
-  "hope": {
-    "translation": "hope",
-    "root": "",
-    "type": "Verb / Noun",
-    "explanation": ""
-  },
-  "another": {
-    "translation": "another",
-    "root": "",
-    "type": "Determiner / Pronoun",
-    "explanation": ""
-  },
-  "meeting": {
-    "translation": "meeting",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "In": {
-    "translation": "In",
-    "root": "",
-    "type": "Preposition",
-    "explanation": ""
-  },
-  "private": {
-    "translation": "private",
-    "root": "",
-    "type": "Adjective / Noun",
-    "explanation": ""
-  },
-  "by": {
-    "translation": "by",
-    "root": "",
-    "type": "Preposition / Adverb",
-    "explanation": ""
-  },
-  "went": {
-    "translation": "went",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "back": {
-    "translation": "back",
-    "root": "",
-    "type": "Adverb / Noun / Verb",
-    "explanation": ""
-  },
-  "desert": {
-    "translation": "desert",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "bloody": {
-    "translation": "bloody",
-    "root": "",
-    "type": "Adjective / Adverb",
-    "explanation": ""
-  },
-  "hell": {
-    "translation": "hell",
-    "root": "",
-    "type": "Noun / Interjection",
-    "explanation": ""
-  },
-  "did": {
-    "translation": "did",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "purpose": {
-    "translation": "purpose",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "was": {
-    "translation": "was",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "accident": {
-    "translation": "accident",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "Marzuq": {
-    "translation": "Marzuq",
-    "root": "",
-    "type": "Noun / Proper Name",
-    "explanation": ""
-  },
-  "apologize": {
-    "translation": "apologize",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "Do": {
-    "translation": "Do",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "something": {
-    "translation": "something",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "sincerely": {
-    "translation": "sincerely",
-    "root": "",
-    "type": "Adverb",
-    "explanation": ""
-  },
-  "still": {
-    "translation": "still",
-    "root": "",
-    "type": "Adverb / Adjective",
-    "explanation": ""
-  },
-  "learning": {
-    "translation": "learning",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "Splendid": {
-    "translation": "Splendid",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "evening": {
-    "translation": "evening",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "highness": {
-    "translation": "highness",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "yes": {
-    "translation": "yes",
-    "root": "",
-    "type": "Interjection",
-    "explanation": ""
-  },
-  "but": {
-    "translation": "but",
-    "root": "",
-    "type": "Conjunction",
-    "explanation": ""
-  },
-  "not": {
-    "translation": "not",
-    "root": "",
-    "type": "Adverb",
-    "explanation": ""
-  },
-  "lisay": {
-    "translation": "lisay",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "palace": {
-    "translation": "palace",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "please": {
-    "translation": "please",
-    "root": "",
-    "type": "Interjection / Verb",
-    "explanation": ""
-  },
-  "excuse": {
-    "translation": "excuse",
-    "root": "",
-    "type": "Verb / Noun",
-    "explanation": ""
-  },
-  "Where": {
-    "translation": "Where",
-    "root": "",
-    "type": "Conjunction / Adverb",
-    "explanation": ""
-  },
-  "Stables": {
-    "translation": "Stables",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "failed": {
-    "translation": "failed",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "are": {
-    "translation": "are",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "brothers": {
-    "translation": "brothers",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "between": {
-    "translation": "between",
-    "root": "",
-    "type": "Preposition",
-    "explanation": ""
-  },
-  "drop": {
-    "translation": "drop",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "water": {
-    "translation": "water",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "Remember": {
-    "translation": "Remember",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "When": {
-    "translation": "When",
-    "root": "",
-    "type": "Conjunction / Adverb",
-    "explanation": ""
-  },
-  "arrived": {
-    "translation": "arrived",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "Plymouth": {
-    "translation": "Plymouth",
-    "root": "",
-    "type": "Noun / Proper Name",
-    "explanation": ""
-  },
-  "saw": {
-    "translation": "saw",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "huge": {
-    "translation": "huge",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "ship": {
-    "translation": "ship",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "might": {
-    "translation": "might",
-    "root": "",
-    "type": "Modal Verb / Noun",
-    "explanation": ""
-  },
-  "British": {
-    "translation": "British",
-    "root": "",
-    "type": "Adjective / Noun",
-    "explanation": ""
-  },
-  "Navy": {
-    "translation": "Navy",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "felt": {
-    "translation": "felt",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "so": {
-    "translation": "so",
-    "root": "",
-    "type": "Adverb / Conjunction",
-    "explanation": ""
-  },
-  "small": {
-    "translation": "small",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
-  "So": {
-    "translation": "So",
-    "root": "",
-    "type": "Adverb / Conjunction",
-    "explanation": ""
-  },
-  "awe": {
-    "translation": "awe",
-    "root": "",
-    "type": "Noun / Verb",
-    "explanation": ""
-  },
-  "Why": {
-    "translation": "Why",
-    "root": "",
-    "type": "Adverb / Conjunction",
-    "explanation": ""
-  },
-  "should": {
-    "translation": "should",
-    "root": "",
-    "type": "Modal Verb",
-    "explanation": ""
-  },
-  "listen": {
-    "translation": "listen",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "A": {
-    "translation": "A",
-    "root": "",
-    "type": "Article",
-    "explanation": ""
-  },
-  "boy": {
-    "translation": "boy",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "from": {
-    "translation": "from",
-    "root": "",
-    "type": "Preposition",
-    "explanation": ""
-  },
-  "am": {
-    "translation": "am",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "really": {
-    "translation": "really",
-    "root": "",
-    "type": "Adverb",
-    "explanation": ""
-  },
-  "prince": {
-    "translation": "prince",
-    "root": "",
-    "type": "Noun",
-    "explanation": ""
-  },
-  "amongst": {
-    "translation": "amongst",
-    "root": "",
-    "type": "Preposition",
-    "explanation": ""
-  },
-  "tell": {
-    "translation": "tell",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "spled": {
-    "translation": "spled",
-    "root": "",
-    "type": "Adjective / Slang",
-    "explanation": ""
-  },
-  "liked": {
-    "translation": "liked",
-    "root": "",
-    "type": "Verb",
-    "explanation": ""
-  },
-  "lost": {
-    "translation": "lost",
-    "root": "",
-    "type": "Verb / Adjective",
-    "explanation": ""
-  },
-  "our": {
-    "translation": "our",
-    "root": "",
-    "type": "Pronoun",
-    "explanation": ""
-  },
-  "real": {
-    "translation": "real",
-    "root": "",
-    "type": "Adjective",
-    "explanation": ""
-  },
+    "Your": {
+    "translation": "خَاصٌّ بِكَ / لَكَ",
+    "root": "ضمير مخاطب",
+    "type": "ضمير ملكية للمخاطب",
+    "explanation": "يُستخدم للإشارة إلى ملكية الشيء للمخاطب المفرد المذكر."
+    },
+    "Royal": {
+    "translation": "مَلَكِيّ",
+    "root": "م - ل - ك",
+    "type": "صفة مذكر",
+    "explanation": "كل ما يتعلق بالملك أو الأسرة الحاكمة ونظام الإدارة التابع للعرش."
+    },
+    "Highness": {
+    "translation": "سُمُوّ",
+    "root": "س - م - و",
+    "type": "اسم / لقب تشريفي",
+    "explanation": "لقب مضاف يُطلق على الأمراء وأعضاء العائلات المالكة لبيان رفعتهم."
+    },
+    "Forgive": {
+    "translation": "سَامِحْ / اِعْفُ",
+    "root": "س - م - ح",
+    "type": "فعل أمر",
+    "explanation": "طلب التجاوز والعفو عن الخطأ أو التقصير بأدب وود."
+    },
+    "me": {
+    "translation": "إيَّايَ / نِي (ياء المتكلم)",
+    "root": "ضمير متكلم",
+    "type": "ضمير متصل للمفعول به",
+    "explanation": "ضمير يعود على المتكلم المفرد عند وقوع فعل الفاعل عليه."
+    },
+    "Lawrence": {
+    "translation": "لُورَنْس",
+    "root": "اسم علم أعجمي",
+    "type": "اسم علم مذكر",
+    "explanation": "اسم لشخصية غربية تاريخية يعامل معاملة الاسم الممنوع من الصرف للعجمة."
+    },
+    "He's": {
+    "translation": "هُوَ يَكُونُ",
+    "root": "ك - و - ن",
+    "type": "ضمير غائب + فعل ناقص",
+    "explanation": "اختصار لـ (He is) وتدل على كينونة المفرد المذكر الغائب في الحاضر."
+    },
+    "always": {
+    "translation": "دَائِمًا",
+    "root": "د - و - م",
+    "type": "ظرف زمان منصوب",
+    "explanation": "يدل على ملازمة الحدث واستمراره دون انقطاع وتكراره المطلق."
+    },
+    "late": {
+    "translation": "مُتَأَخِّر",
+    "root": "أ - خ - ر",
+    "type": "صفة مشتقة",
+    "explanation": "صيغة اسم الفاعل تدل على من يأتي أو يحدث بعد الوقت المحدد له مسبقاً."
+    },
+    "Does": {
+    "translation": "يَفْعَلُ / هَلْ",
+    "root": "ف - ع - ل",
+    "type": "فعل مساعد / رئيسي",
+    "explanation": "يُستخدم كفعل مساعد للسؤال أو النفي للمفرد الغائب المذكر أو المؤنث."
+    },
+    "it": {
+    "translation": "هُوَ / هِيَ (لغير العاقل)",
+    "root": "ضمير غائب",
+    "type": "ضمير منفصل لغير العاقل",
+    "explanation": "يُستخدم للإشارة إلى جماد أو حيوان أو فكرة مبهمة تم ذكرها مسبقاً."
+    },
+    "deliberately": {
+    "translation": "عَمْدًا / عَنْ قَصْد",
+    "root": "ع - م - د",
+    "type": "ظرف حال منصوب",
+    "explanation": "القيام بالتصرف بنية مقصودة وإرادة واضحة دون مصادفة."
+    },
+    "I'm": {
+    "translation": "أَنَا أَكُونُ",
+    "root": "ك - و - ن",
+    "type": "ضمير متكلم + فعل ناقص",
+    "explanation": "اختصار لـ (I am) وتدل على إثبات كينونة ووصف المتكلم المفرد لذاته."
+    },
+    "sure": {
+    "translation": "مُتَأَكِّد / يَقِين",
+    "root": "أ - ك - د",
+    "type": "صفة مشبهة",
+    "explanation": "حالة الثبوت واليقين التام بوقوع أمر ما دون شك أو التباس."
+    },
+    "My": {
+    "translation": "خَاصٌّ بِي / لِي",
+    "root": "ضمير متكلم",
+    "type": "ضمير ملكية متصل",
+    "explanation": "ياء الملكية المتصلة بالأسماء لتبين عائدية الأشياء للمتكلم المفرد."
+    },
+    "lecture": {
+    "translation": "مُحَاضَرَة",
+    "root": "ح - ض - ر",
+    "type": "اسم مفرد مؤنث",
+    "explanation": "حديث منظم وممنهج يلقيه المتخصص لجمهور لغرض التوعية والتعليم."
+    },
+    "at": {
+    "translation": "فِي / عِنْدَ",
+    "root": "حرف ظرفية",
+    "type": "حرف جر / ظرف مكان",
+    "explanation": "يُستعمل لتحديد موقع جغرافي دقيق أو توقيت آني لحصول الشيء."
+    },
+    "the": {
+    "translation": "الـ (أداة التعريف)",
+    "root": "حرف تعريف",
+    "type": "حرف تعريف مبني",
+    "explanation": "تدخل على الأسماء النكرة لتحويلها لأسماء معرفة معلومة للمستمع سلفاً."
+    },
+    "RGS": {
+    "translation": "الْجَمْعِيَّةُ الْجُغْرَافِيَّةُ الْمَلَكِيَّةُ",
+    "root": "اسم علم لمؤسسة",
+    "type": "اختصار لاسم هيئة رسمية",
+    "explanation": "اختصار لـ (Royal Geographical Society) وهي هيئة جغرافية علمية بريطانية شهيرة."
+    },
+    "overran": {
+    "translation": "تَجَاوَزَ / تَخَطَّى الـوَقْت",
+    "root": "ج - و - ز",
+    "type": "فعل ماضٍ مبني",
+    "explanation": "استمرار الحدث وامتداده زمناً لما بعد الحد المسموح أو المتوقع له."
+    },
+    "horribly": {
+    "translation": "بِشَكْلٍ فَظِيع / جِدًّا",
+    "root": "ف - ظ - ع",
+    "type": "ظرف حال منصوب للمبالغة",
+    "explanation": "يُستعمل للمبالغة الشديدة في وصف صعوبة أو سوء الموقف الحاصل."
+    },
+    "You're": {
+    "translation": "أَنْتَ تَكُونُ",
+    "root": "ك - و - ن",
+    "type": "ضمير مخاطب + فعل ناقص",
+    "explanation": "اختصار لـ (You are) وتدل على كينونة ووصف حال المخاطب المفرد."
+    },
+    "in": {
+    "translation": "فِي",
+    "root": "حرف جر",
+    "type": "حرف جر مبني",
+    "explanation": "يدل على احتواء الحيز المكاني أو الزماني لحصول الحدث المذكور."
+    },
+    "great": {
+    "translation": "عَظِيم / كَبِير",
+    "root": "ع - ظ - م",
+    "type": "صفة مذكر",
+    "explanation": "ما يتميز بالفخامة أو الأهمية البالغة والمكانة المرموقة."
+    },
+    "demand": {
+    "translation": "طَلَب",
+    "root": "ط - ل - ب",
+    "type": "اسم مفرد نكرة / فعل",
+    "explanation": "استدعاء ورغبة المجتمع في الحصول على شخص أو الاستفادة منه بكثرة."
+    },
+    "everyone": {
+    "translation": "الْجَمِيع / كُلُّ شَخْص",
+    "root": "ج - م - ع",
+    "type": "اسم يفيد الاستغراق والعموم",
+    "explanation": "لفظ تجميعي عام يدل على كافة الحاضرين في المجلس دون استثناء لأحد."
+    },
+    "wanting": {
+    "translation": "يُرِيدُونَ / رَاغِبِينَ",
+    "root": "ر - و - د",
+    "type": "فعل مضارع / اسم فاعل سياقي",
+    "explanation": "الشعور بالحاجة والرغبة الملحة لطلب رؤية أو مرافقة الشخص المذكور."
+    },
+    "to": {
+    "translation": "إِلَى / أَنْ",
+    "root": "حرف غاية / نصب",
+    "type": "حرف جر / أداة نصب",
+    "explanation": "حرف لبيان اتجاه الغاية، أو حرف مصدري ونصب يدخل على المضارع."
+    },
+    "have": {
+    "translation": "يَمْلِكُ / يَحُوزُ",
+    "root": "م - ل - ك",
+    "type": "فعل مضارع / فعل مساعد",
+    "explanation": "يدل على حيازة وامتلاك الموارد المادية أو القيام بالفعل مسبقاً."
+    },
+    "their": {
+    "translation": "خَاصٌّ بِهِم / لَهُم",
+    "root": "ضمير غائبين",
+    "type": "ضمير ملكية متصل للجمع",
+    "explanation": "يدل على نسبة ملكية وحيازة الأشياء لمجموعة من الغائبين الذكور."
+    },
+    "photograph": {
+    "translation": "صُورَة فُوتُوغْرَافِيَّة",
+    "root": "ص - و - ر",
+    "type": "اسم مفرد مؤنث",
+    "explanation": "التمثيل البصري المحفوظ لوجه أو هيئة الشخص الملتقط بآلة التصوير."
+    },
+    "taken": {
+    "translation": "مَأْخُوذ / مُلْتَقَط",
+    "root": "أ - خ - ذ",
+    "type": "اسم مفعول",
+    "explanation": "ما وقع عليه فعل الأخذ والالتقاط ليصبح متاحاً وموثقاً بالكامل."
+    },
+    "with": {
+    "translation": "مَعَ / بِرِفْقَة",
+    "root": "م - ع",
+    "type": "ظرف مصاحبة منصوب",
+    "explanation": "يدل على التزامن والاقتران والمصاحبة الفعلية لشخص آخر بالمجلس."
+    },
+    "you": {
+    "translation": "أَنْتَ",
+    "root": "ضمير مخاطب",
+    "type": "ضمير منفصل للمفرد المخاطب المذكر",
+    "explanation": "يُستخدم لمخاطبة وتوجيه الكلام المباشر للمفرد المذكر البالغ."
+    },
+    "It": {
+    "translation": "هُوَ / هِيَ (لغير العاقل)",
+    "root": "ضمير غائب",
+    "type": "ضمير منفصل للمفرد غير العاقل",
+    "explanation": "ينوب عن اسم مفرد جماد أو حيوان أو فكرة لغوية سابقة منعاً للتكرار."
+    },
+    "most": {
+    "translation": "الْأَكْثَرُ / لِلْغَايَة",
+    "root": "ك - ث - ر",
+    "type": "اسم تفضيل / ظرف مبالغة",
+    "explanation": "يُستخدم لبيان تفوق الصفة ووصولها لأقصى غاياتها في الوصف."
+    },
+    "tiresome": {
+    "translation": "مُتْعِب / مُثِيرٌ لِلْمَلَل",
+    "root": "ت - ع - ب",
+    "type": "صفة مشبهة مذكر",
+    "explanation": "ما يسبب الإرهاق الجسدي أو النفور والملل الذهني للشخص النشط."
+    },
+    "Ha": {
+    "translation": "هَهْ (ضَحْكَة خَفِيفَة)",
+    "root": "اسم صوت",
+    "type": "صوت محاكاة للضحك",
+    "explanation": "لفظ صوتي يحاكي الابتسام أو الضحك الخفيف للتعبير عن السعادة أو المفاجأة."
+    },
+    "Ah": {
+    "translation": "آهْ / تَنَهُّد",
+    "root": "أ - و - ه",
+    "type": "اسم فعل مضارع",
+    "explanation": "تعبير لغوي عفوي يمثل التأوه والتذكر الوجداني أو الإحساس بالتعب."
+    },
+    "Philby": {
+    "translation": "فِيلْبِي",
+    "root": "اسم علم أعجمي",
+    "type": "اسم علم مذكر",
+    "explanation": "اسم للمستشرق البريطاني الشهير هاري سانت جون فيلبي المستشار والمرافق."
+    },
+    "old": {
+    "translation": "قَدِيم / كَبِيرُ السِّنِّ",
+    "root": "ق - د - م",
+    "type": "صفة مذكر",
+    "explanation": "ما مر عليه زمن ممتد طويل أو من تقدم في العمر والخبرة."
+    },
+    "man": {
+    "translation": "رَجُل",
+    "root": "ر - ج - ل",
+    "type": "اسم مفرد نكرة مذكر",
+    "explanation": "الإنسان الذكر البالغ العاقل صاحب المنعة والمسؤولية."
+    },
+    "Long": {
+    "translation": "طَوِيل",
+    "root": "ط - و - ل",
+    "type": "صفة مذكر",
+    "explanation": "الامتداد الواسع غير المعتاد في الطول المكاني أو الزماني."
+    },
+    "time": {
+    "translation": "وَقْت / زَمَن",
+    "root": "و - ق - ت",
+    "type": "اسم مفرد مذكر",
+    "explanation": "المقدار المحدد من الزمان المقاس بالدقائق أو الحقبة التاريخية."
+    },
+    "no": {
+    "translation": "لَا / لَيْسَ",
+    "root": "حرف نفي",
+    "type": "أداة نفي مبنية",
+    "explanation": "تُستخدم لإنكار وجود الشيء أو نفي حدوثه في الجمل."
+    },
+    "see": {
+    "translation": "يَرَى",
+    "root": "ر - أ - ي",
+    "type": "فعل مضارع معتل الآخر",
+    "explanation": "إبصار الأشياء بالعين المجردة أو إدراك كنه المسألة عقلياً."
+    },
+    "trust": {
+    "translation": "يَثِقُ / يَأْمُلُ",
+    "root": "و - ث - ق",
+    "type": "فعل مضارع / اسم",
+    "explanation": "الاطمئنان القلبي التام والاعتماد الصادق على شخص أو فكرة."
+    },
+    "Foreign": {
+    "translation": "أَجْنَبِيّ / خَارِجِيّ",
+    "root": "غ - ر - ب",
+    "type": "صفة مذكر منسوب",
+    "explanation": "كل ما يخص الدول الأخرى أو يقع خارج الحدود الجغرافية للبلاد."
+    },
+    "Office": {
+    "translation": "مَكْتَب / وِزَارَة",
+    "root": "ك - ت - ب",
+    "type": "اسم مفرد مذكر",
+    "explanation": "المقر والمسكن الحكومي المخصص لإدارة الأعمال الرسمية للدولة."
+    },
+    "is": {
+    "translation": "يَكُونُ",
+    "root": "ك - و - ن",
+    "type": "فعل مضارع ناقص",
+    "explanation": "يربط بين المبتدأ والخبر لتوضيح كينونة وحال الاسم في الوقت الحالي."
+    },
+    "making": {
+    "translation": "يَصْنَعُ / يَجْعَلُ",
+    "root": "ص - ن - ع",
+    "type": "فعل مضارع مستمر / مصدر",
+    "explanation": "البدء والجهد المبذول لتهيئة وتجهيز الفرص لتطبيق النفوذ والمهام."
+    },
+    "full": {
+    "translation": "كَامِل / مُمْتَلِئ",
+    "root": "ك - م - ل",
+    "type": "صفة مذكر",
+    "explanation": "الوصول لأقصى حد متاح دون نقصان أو تقصير."
+    },
+    "use": {
+    "translation": "اسْتِخْدَام / اِسْتِغْلَال",
+    "root": "خ - د - م",
+    "type": "مصدر للفعل السداسي",
+    "explanation": "توظيف المهارات والقدرات المتاحة لتحقيق منافع ومقاصد معلومة."
+    },
+    "of": {
+    "translation": "مِنْ / خَاصٌّ بِـ",
+    "root": "حرف جر",
+    "type": "حرف جر مبني",
+    "explanation": "يبين علاقة التبعية أو الملكية والمنشأ الحاصل بين اسمين."
+    },
+    "your": {
+    "translation": "خَاصٌّ بِكَ / لَكَ",
+    "root": "ضمير مخاطب",
+    "type": "ضمير ملكية متصل للمخاطب",
+    "explanation": "توجيه ملكية الأشياء للشخص المخاطب المفرد المذكر بالمجلس."
+    },
+    "talents": {
+    "translation": "مَوَاهِب / قُدُرَات",
+    "root": "و - ه - ب",
+    "type": "اسم جمع تكسير مؤنث",
+    "explanation": "القدرات العقلية والسمات البارزة الممنوحة للفرد لتسيير شؤونه."
+    },
+    "And": {
+    "translation": "وَ (حَرْفُ عَطْفٍ)",
+    "root": "حرف عطف",
+    "type": "حرف عطف مبني",
+    "explanation": "يربط ويجمع بامتياز مطلق بين الكلمات والجمل في سياق تشاركي."
+    },
+    "must": {
+    "translation": "يَجِبُ أَنْ",
+    "root": "و - ج - ب",
+    "type": "فعل مساعد للوجوب والإلزام",
+    "explanation": "يدل على حتمية وضرورة حدوث الفعل لخدمة مصالح وأمور هامة."
+    },
+    "be": {
+    "translation": "يَكُونُ",
+    "root": "ك - و - ن",
+    "type": "فعل مضارع مجرد / ناقص",
+    "explanation": "الوجود والثبوت والتحقق للذات أو للفعل بالمستقبل والماضي."
+    },
+    "Prince": {
+    "translation": "أَمِير",
+    "root": "أ - م - ر",
+    "type": "اسم / لقب تشريفي سياسي",
+    "explanation": "من يتولى رعاية الإمارة وهو دون رتبة الملك في نظام الحكم."
+    },
+    "Faisal": {
+    "translation": "فَيْصَل",
+    "root": "ف - ص - ل",
+    "type": "اسم علم مذكر",
+    "explanation": "اسم الأمير فيصل بن الحسين، ويعني الحاكم العادل الحازم القاطع في حكمه."
+    },
+    "Not": {
+    "translation": "لَا / لَيْسَ (أَدَاةُ نَفْيٍ)",
+    "root": "حرف نفي",
+    "type": "أداة نفي للجمل",
+    "explanation": "تُدخل لنفي وقوع الفعل أو نفي اتصاف المبتدأ بالخبر في الحاضر."
+    },
+    "finding": {
+    "translation": "يَجِدُ / يُلَاقِي",
+    "root": "و - ج - د",
+    "type": "فعل مضارع مستمر / اسم فاعل",
+    "explanation": "التوصل لإدراك واكتشاف حال الطقس أو العثور على الشيء المفقود."
+    },
+    "England": {
+    "translation": "إِنْجِلْتِرَا",
+    "root": "اسم علم جغرافي أعجمي",
+    "type": "اسم علم لبلد",
+    "explanation": "الدولة الأوروبية وعاصمة الإمبراطورية التي يزورها الوفد العربي."
+    },
+    "too": {
+    "translation": "جِدًّا / لِلْغَايَةِ",
+    "root": "ظرف مبالغة",
+    "type": "ظرف زيادة كمية",
+    "explanation": "يدل على بلوغ الصفة للحد الأقصى المفرط المسبب للمشقة."
+    },
+    "chilly": {
+    "translation": "بَارِد / قَارِص",
+    "root": "ب - ر - د",
+    "type": "صفة مذكر",
+    "explanation": "حالة انخفاض الحرارة الجوية بشدة مسببة ارتعاد البدن."
+    },
+    "On": {
+    "translation": "عَلَى / فِي (سِيَاقُ الْعَكْسِ)",
+    "root": "حرف جر",
+    "type": "حرف جر مبني",
+    "explanation": "الاستناد المباشر في الحديث على حقيقة مقابلة تماماً لما ادعي."
+    },
+    "contrary": {
+    "translation": "الْعَكْس / الضِّد",
+    "root": "ع - ك - س",
+    "type": "اسم مفرد مذكر",
+    "explanation": "الجانب المخالف المباين تماماً للمقولة أو التصور الحاصل."
+    },
+    "weather": {
+    "translation": "طَقْس / جَوّ",
+    "root": "ط - ق - س",
+    "type": "اسم مفرد مذكر",
+    "explanation": "حالة الغلاف الجوي اليومية المؤقتة من رطوبة وحرارة ورياح."
+    },
+    "climate": {
+    "translation": "مُنَاخ",
+    "root": "ن - خ - ي",
+    "type": "اسم مفرد مذكر",
+    "explanation": "المعدل العام والدائم لحالة الطقس على إقليم جغرافي لفترة طويلة."
+    },
+    "Spoken": {
+    "translation": "مَنْطُوق / مُتَحَدَّث",
+    "root": "ق - و - ل",
+    "type": "اسم مفعول سياقي",
+    "explanation": "صياغة الأفكار وإطلاقها بواسطة الكلمات والعبارات الشفهية."
+    },
+    "like": {
+    "translation": "مِثْلَ / كَـ (حَرْفُ تَشْبِيهٍ)",
+    "root": "م - th - ل",
+    "type": "حرف تشبيه مبني / فعل",
+    "explanation": "مقارنة وإلحاق صفات المخاطب بصفات المواطن الإنجليزي الأصيل."
+    },
+    "a": {
+    "translation": "أَدَاةُ تَنْكِيرٍ",
+    "root": "حرف تنكير",
+    "type": "حرف مبني للتنكير",
+    "explanation": "تسبق الاسم المفرد النكرة القابل للعد لبيان عدم تشخيصه أو تعيينه."
+    },
+    "true": {
+    "translation": "حَقِيقِيّ / صَادِق",
+    "root": "ح - ق - ق",
+    "type": "صفة مذكر",
+    "explanation": "المطابق للأصل والواقع الفعلي بصدق تام ودون زيف."
+    },
+    "Englishman": {
+    "translation": "رَجُلٌ إِنْجِلِيزِيّ",
+    "root": "اسم علم أعجمي منسوب",
+    "type": "اسم علم مذكر",
+    "explanation": "المواطن الذي يحمل سمات وهوية وثقافة بلاد بريطانيا."
+    },
+    "Mark": {
+    "translation": "سَجِّلْ / اِنْتَبِهْ لِـ",
+    "root": "س - ج - ل (أو ع - ل - م)",
+    "type": "فعل أمر مبني",
+    "explanation": "أمر بتسجيل وتدوين العبارة والتركيز البالغ فيما سيقال."
+    },
+    "my": {
+    "translation": "خَاصٌّ بِي / لِي",
+    "root": "ضمير متكلم",
+    "type": "ضمير ملكية متصل",
+    "explanation": "ياء المتكلم المضافة لتدل على نسبة الكلام لمصدره الصادق."
+    },
+    "words": {
+    "translation": "كَلِمَاتِي / أَقْوَال",
+    "root": "ك - ل - م",
+    "type": "اسم جمع تكسير مؤنث",
+    "explanation": "العبارات والتحليلات اللفظية التي يطلقها المتحدث."
+    },
+    "there": {
+    "translation": "هُنَاكَ",
+    "root": "إشارة للبعيد",
+    "type": "اسم إشارة مكاني للبعيد",
+    "explanation": "الإشارة إلى جهة جغرافية بعيدة عن موضع المتحدث."
+    },
+    "revolt": {
+    "translation": "ثَوْرَة / تَمَرُّد مُسَلَّح",
+    "root": "ث - و - ر",
+    "type": "اسم مفرد مبتدأ مؤخر / فعل",
+    "explanation": "الرفض والانتفاض الشعبي العارم ضد نفوذ سلطة سياسية معينة."
+    },
+    "brewing": {
+    "translation": "يَخْتَمِرُ / يَتَهَيَّأُ لِلْوُقُوع",
+    "root": "خ - م - ر",
+    "type": "فعل مضارع مستمر",
+    "explanation": "تشبيه دلالي بكون الصراع السياسي العنيف يختمر وسينفجر قريباً."
+    },
+    "Mesopotamia": {
+    "translation": "بِلَادُ الرَّافِدَيْن (الْعِرَاق)",
+    "root": "اسم علم جغرافي تاريخي",
+    "type": "اسم علم جغرافي",
+    "explanation": "الاسم الإغريقي والتاريخي القديم لأراضي نهري دجلة والفرات."
+    },
+    "We": {
+    "translation": "نَحْنُ",
+    "root": "ضمير متكلم جمع",
+    "type": "ضمير منفصل للجمع والتعظيم",
+    "explanation": "ضمير للتعبير عن الشراكة والسيادة الرسمية في اتخاذ القرار الدولي."
+    },
+    "honor": {
+    "translation": "نَفِي بِـ / نَصُونُ",
+    "root": "و - ف - ي (أو ح - ر - م)",
+    "type": "فعل مضارع مسند للجمع",
+    "explanation": "الالتزام التام والصدق والوفاء بالوعود التي قطعت مسبقاً للقبائل."
+    },
+    "promise": {
+    "translation": "وَعْد / عَهْد مُوَثَّق",
+    "root": "و - ع - د",
+    "type": "اسم مفرد نكرة مفعول به",
+    "explanation": "الالتزام الأخلاقي بتقديم الدعم السياسي وضمان الاستقلال لجهة ما."
+    },
+    "self": {
+    "translation": "الذَّاتِيّ / النَّفْس",
+    "root": "ن - ف - س",
+    "type": "اسم مضاف / بادئة",
+    "explanation": "ما يخص الكينونة والذات، والمقصود بها استقلال القرار وإدارته."
+    },
+    "government": {
+    "translation": "حُكُومَة / حُكْم",
+    "root": "ح - ك - م",
+    "type": "اسم مفرد مضاف إليه مجرور",
+    "explanation": "الجهاز التنفيذي المسؤول عن إدارة وإرساء القوانين والنفوذ بالبلاد."
+    },
+    "as": {
+    "translation": "كَمَا / مِثْلَ",
+    "root": "حرف رابط للمطابقة",
+    "type": "حرف تعليل وتشبيه مبني",
+    "explanation": "يُستعمل للمطابقة وبيان التماثل والارتباط والعلة للحدث."
+    },
+    "laid": {
+    "translation": "مَوْضُوع / مَوْضُوع بِدِقَّةٍ",
+    "root": "و - ض - ع",
+    "type": "اسم مفعول / فعل ماضٍ سياقي",
+    "explanation": "ما تم إرساءه وصياغته وتدوينه مسبقاً ببنود المعاهدات الرسمية."
+    },
+    "out": {
+    "translation": "خَارِجًا / مَكْشُوفًا لِلْعَلَن",
+    "root": "خ - ر - ج",
+    "type": "ظرف مكان / أداة تأكيد",
+    "explanation": "توضيح وتفصيل الإعلان وإظهاره للجمهور لتنفيذه بسلام."
+    },
+    "Anglo": {
+    "translation": "أَنْجِلِيزِيّ (بَادِئَة)",
+    "root": "اسم أعجمي مركب",
+    "type": "بادئة منسوبة لبريطانيا",
+    "explanation": "كل ما يتعلق بالسياسة أو المصالح أو الثقافة البريطانية العظمى."
+    },
+    "French": {
+    "translation": "فَرَنْسِيّ",
+    "root": "اسم أعجمي منسوب",
+    "type": "صفة منسوبة لدولة فرنسا",
+    "explanation": "كل ما يخص دولة فرنسا ولغتها وحكومتها وسياستها الاستعمارية القديمة."
+    },
+    "declaration": {
+    "translation": "إِعْلَان رَسْمِيّ",
+    "root": "ع - ل - ن",
+    "type": "اسم مفرد مجرور مضاف إليه",
+    "explanation": "الوثيقة والمعاهدة الرسمية الصادرة لإشهار النية السياسية والوفاق."
+    },
+    "Wouldn't": {
+    "translation": "أَلَا تَظُنُّ / أَلَنْ",
+    "root": "همزة استفهام ونفي",
+    "type": "أداة استفهام تقريرية منفية",
+    "explanation": "تركيب استفهامي تقريري بهدف انتزاع موافقة وتأييد المحاور بالمجلس."
+    },
+    "agree": {
+    "translation": "تُوَافِقُ",
+    "root": "و - ف - ق",
+    "type": "فعل مضارع للمخاطب المفرد",
+    "explanation": "القبول بوجهة النظر المطروحة والانسجام مع القول المطروح."
+    },
+    "would": {
+    "translation": "سَوْفَ / سَيَفْعَل",
+    "root": "ك - و - n",
+    "type": "فعل مساعد للاحتمالية والشرط",
+    "explanation": "فعل مساعد لتأكيد حدوث الفعل أو لتوقع فرضية وقوعه بالماضي."
+    },
+    "Absolutely": {
+    "translation": "بِالتَّأْكِيدِ / قَطْعًا",
+    "root": "أ - ك - د",
+    "type": "ظرف تأكيد قطعي مفعول مطلق",
+    "explanation": "تعبير يفيد القبول والموافقة المطلقة بلا شروط أو تردد وجدل."
+    },
+    "we": {
+    "translation": "نَحْنُ (لِلْجَمْعِ وَالتَّعْظِيمِ)",
+    "root": "ضمير متكلم جمع",
+    "type": "ضمير منفصل في محل رفع مبتدأ",
+    "explanation": "المتكلمون بصفة الشراكة أو الإدارة الرسمية والملك والجاه."
+    },
+    "let": {
+    "translation": "نَدَعُ / نَسْمَحُ لِـ",
+    "root": "س - م - ح",
+    "type": "فعل مضارع مسند للجمع نحن",
+    "explanation": "إعطاء الإذن والرخصة والتمكين للشخص للقيام بالتصرف وإدارة شؤونه."
+    },
+    "bin": {
+    "translation": "اِبْن / بْن",
+    "root": "ب - ن - ي",
+    "type": "اسم مذكر مضاف",
+    "explanation": "لفظ يستعمل لربط اسم الشاب أو الأمير باسم والده في سلسلة النسب الشريف."
+    },
+    "Hussein": {
+    "translation": "حُسَيْن",
+    "root": "ح - س - ن",
+    "type": "اسم علم مذكر مضاف إليه",
+    "explanation": "الشريف الحسين بن علي قائد الثورة العربية وملك الحجاز."
+    },
+    "govern": {
+    "translation": "يَحْكُمَ / يُدِيرَ شُؤُونَ",
+    "root": "ح - ك - م",
+    "type": "فعل مضارع منصوب وعلامة نصبه الفتحة",
+    "explanation": "فرض الهيمنة وتولي الإدارة السياسية والتنظيمية للبلاد والقرى."
+    },
+    "estimation": {
+    "translation": "تَقْدِيرِي / تَقْيِيمِي",
+    "root": "ق - د - ر",
+    "type": "اسم مفرد منصوب سياقي",
+    "explanation": "الاجتهاد والحساب العقلي والوصول لتقييم صائب للأمير والقيادة."
+    },
+    "finest": {
+    "translation": "أَنْبَل / أَعْظَم شَأْنًا",
+    "root": "ف - ض - ل (أو ن - ب - ل)",
+    "type": "اسم تفضيل",
+    "explanation": "بلوغ المرتبة والدرجة الأشد نبلاً وفضلاً وشهامة في الرجال."
+    },
+    "Arab": {
+    "translation": "عَرَبِيّ",
+    "root": "ع - ر - ب",
+    "type": "اسم جنس منسوب صفة مذكر",
+    "explanation": "كل ما ينتسب للأمة واللغة والجزيرة العربية مهد الفصاحة والشهامة."
+    },
+    "leader": {
+    "translation": "قَائِد / زَعِيم",
+    "root": "ق - و - د",
+    "type": "اسم فاعل مذكر",
+    "explanation": "من يتولى ريادة شعبه وحماية القبائل وسن الخطط بذكاء وحكمة."
+    },
+    "since": {
+    "translation": "مُنْذُ",
+    "root": "م - ن - ذ",
+    "type": "ظرف زمان لابتداء الغاية",
+    "explanation": "يُحدد مستهَل نقطة تاريخية سابقة لم يأتِ بمثلها قائد عظيم."
+    },
+    "Saladin": {
+    "translation": "صَلَاحُ الدِّين",
+    "root": "ص - ل - ح + د - ي - ن",
+    "type": "اسم علم مركب مضاف",
+    "explanation": "القائد البطل صلاح الدين الأيوبي محرر القدس الشهير بالتاريخ الإسلامي."
+    },
+    "If": {
+    "translation": "إِذَا / لَوْ (حَرْفُ شَرْطٍ)",
+    "root": "حرف شرط",
+    "type": "أداة شرط غير جازمة",
+    "explanation": "يربط بين فعل الشرط وجوابه لتعليق حدوث شأن لغوي أو سياسي بآخر."
+    },
+    "may": {
+    "translation": "يُسْمَحُ لِي / رُبَّمَا",
+    "root": "س - م - ح",
+    "type": "فعل مساعد لطلب الإذن بأدب",
+    "explanation": "يُستخدم في المجالس الرسمية لطلب رخصة إبداء الرأي والحديث الصريح."
+    },
+    "No": {
+    "translation": "لَا (لِلنَّفْيِ الْقَاطِعِ)",
+    "root": "حرف نفي",
+    "type": "أداة نفي قطعية مبنية",
+    "explanation": "حرف نفي صريح يقطع بانتفاء وجود الشبه أو التماثل مع الخصم."
+    },
+    "commands": {
+    "translation": "يَحْظَى بِـ / يَأْمُرُ",
+    "root": "أ - م - ر",
+    "type": "فعل مضارع مذكر",
+    "explanation": "الاستحقاق والقدرة على كسب وفرض الاحترام المتبادل بين القبائل."
+    },
+    "more": {
+    "translation": "أَكْثَرَ",
+    "root": "ك - ث - ر",
+    "type": "اسم تفضيل منصوب",
+    "explanation": "الزيادة والوفور في المقدار أو الكلمة المسموعة والهيبة المطلقة."
+    },
+    "respect": {
+    "translation": "احْتِرَام",
+    "root": "ح - ر - م",
+    "type": "مصدر للفعل الخماسي / مفعول به",
+    "explanation": "التوقير والتبجيل والمهابة التي يودعها الله لشخص في قلوب الرجال."
+    },
+    "across": {
+    "translation": "عَبْرَ / فِي أَرْجَاءِ",
+    "root": "ع - ب - ر",
+    "type": "ظرف مكان",
+    "explanation": "الامتداد الجغرافي الواسع والشامل للبلاد والقرى والبادية الصحراوية."
+    },
+    "Arabia": {
+    "translation": "شِبْهُ الْجَزِيرَةِ الْعَرَبِيَّة",
+    "root": "ع - ر - ب",
+    "type": "اسم علم جغرافي لإقليم",
+    "explanation": "مهد ووطن العرب والرجال الأصيلين وحاضنة الخيول والرسالة الإلهية."
+    },
+    "than": {
+    "translation": "مِنْ (لِلْمُفَاضَلَةِ)",
+    "root": "حرف مقارنة",
+    "type": "حرف مبني للمقارنة",
+    "explanation": "يربط بين أطراف المقارنة لبيان كفة المفاضلة والرجحان للأب الشريف."
+    },
+    "father": {
+    "translation": "أَب / وَالِد",
+    "root": "أ - ب - و",
+    "type": "اسم مفرد مذكر مجرور",
+    "explanation": "الوالد الحاني ومصدر النشأة والتربية والتوجيه للأمير لوالده."
+    },
+    "Abdulaziz": {
+    "translation": "عَبْدُ الْعَزِيز",
+    "root": "ع - ب - د + ع - ز - ز",
+    "type": "اسم علم مركب مضاف إليه",
+    "explanation": "المقصود به الإمام والملك المؤسس عبد العزيز آل سعود طيب الله ثراه."
+    },
+    "Al": {
+    "translation": "آل / الْـ (الْعَائِلَة)",
+    "root": "أ - و - ل",
+    "type": "اسم مضاف للنسب الشريف",
+    "explanation": "الأهل والنسل الممتد والعشيرة المالكة الكريمة الحاكمة للبلاد."
+    },
+    "Saud": {
+    "translation": "سُعُود",
+    "root": "س - ع - د",
+    "type": "اسم علم مذكر مضاف إليه مجرور",
+    "explanation": "النسب الكريم الشريف للعائلة المالكة السعودية."
+    },
+    "This": {
+    "translation": "هَذَا (لِلْإِشَارَةِ)",
+    "root": "إشارة للمفرد",
+    "type": "اسم إشارة للمفرد المذكر القريب",
+    "explanation": "توجيه الانتباه الفوري لأمر علمي أو لغوي مشاهد بالنقاش الحاضر."
+    },
+    "learned": {
+    "translation": "تَعَلَّمْتُ / عَلِمْتُ بِيَقِين",
+    "root": "ع - ل - م",
+    "type": "فعل ماضٍ مبني متصل بتاء الفاعل",
+    "explanation": "حصول العلم الحقيقي والمعرفة الدقيقة بعد التجربة الميدانية بالبادية."
+    },
+    "when": {
+    "translation": "عِنْدَمَا / حِينَمَا",
+    "root": "ح - ي - n",
+    "type": "ظرف زمان موصول مبني",
+    "explanation": "ربط حدوث زمن وموقع الرحلة بالتعلم والمعرفة والشهود الفعلي."
+    },
+    "rode": {
+    "translation": "رَكِبْتُ / امْتَطَيْتُ",
+    "root": "ر - ك - ب",
+    "type": "فعل ماضٍ متصل بتاء الفاعل مبني على السكون",
+    "explanation": "ركوب الجواد أو الجمل لقطع السهول واختراق الصحراء الشاسعة."
+    },
+    "right": {
+    "translation": "مُبَاشَرَةً / حَقًّا",
+    "root": "ح - ق - ق",
+    "type": "ظرف تأكيد زماني ومكاني",
+    "explanation": "المضي قدماً بصفة مباشرة ودون انحراف أو توقف لقلب الإقليم المقصود."
+    },
+    "into": {
+    "translation": "إِلَى عُمْقِ / فِي دَاخِل",
+    "root": "حرف ظرفية عميقة",
+    "type": "حرف جر مركب مبني",
+    "explanation": "يفيد الاختراق والوصول لأعماق الفضاء الجغرافي الداخلي للبلاد."
+    },
+    "heart": {
+    "translation": "قَلْب / عُمْق",
+    "root": "ق - ل - ب",
+    "type": "اسم مفرد مذكر مجرور",
+    "explanation": "المركز الجغرافي أو المعنوي الحصين للبلد والمشاعر الوجدانية للإنسان."
+    },
+    "territory": {
+    "translation": "أَرَاضٍ / إِقْلِيم جُغْرَافِيّ",
+    "root": "أ - ر - ض",
+    "type": "اسم مفرد نكرة مجرور بالكسرة",
+    "explanation": "المساحة الشاسعة والبراري التابعة لسيادة قبيلة أو مملكة معترف بها."
+    },
+    "wonder": {
+    "translation": "أَتَسَاءَلُ",
+    "root": "س - أ - ل",
+    "type": "فعل مضارع مرفوع بالضمة للمتكلم المفرد",
+    "explanation": "إعمال العقل والبحث الفكري عن السبب الخفي وراء مباغتة الأمير بالحلول."
+    },
+    "how": {
+    "translation": "كَيْفَ",
+    "root": "ك - ي - ف",
+    "type": "اسم استفهام للحال والوسيلة مبني",
+    "explanation": "يُستفهم به لمعرفة الطريقة والوسيلة المدهشة لعبور الحدود والدخول."
+    },
+    "could": {
+    "translation": "اِسْتَطَاعَ / كَانَ بِمَقْدُورِه",
+    "root": "ط - و - ع",
+    "type": "فعل ماضٍ مساعد لبيان الاستطاعة",
+    "explanation": "توضيح امتلاك القوة والمنعة والوسع الكافي للتصرف والعبور الهادئ."
+    },
+    "enter": {
+    "translation": "يَدْخُلَ / يَلِجَ",
+    "root": "د - خ - ل",
+    "type": "فعل مضارع منصوب / مصدر مؤول",
+    "explanation": "عبور البوابات الرسمية والمباني الحصينة للبلاد والحلول ضيفاً بالداخل."
+    },
+    "kingdom": {
+    "translation": "مَمْلَكَة",
+    "root": "م - ل - ك",
+    "type": "اسم مفرد مؤنث مضاف إليه مجرور",
+    "explanation": "الكيان الإقليمي والسياسي الموحد الخاضع تماماً لولاية وسلطان الملك."
+    },
+    "Hejaz": {
+    "translation": "الْحِجَاز",
+    "root": "ح - ج - ز",
+    "type": "اسم علم جغرافي ممنوع من الصرف",
+    "explanation": "المنطقة الغربية من الجزيرة العربية والتي تحجز بين نجد وتهامة تاريخياً."
+    },
+    "unannounced": {
+    "translation": "دُونَ إِعْلَان / هَكَذَا",
+    "root": "ع - ل - ن",
+    "type": "ظرف حال منصوب غير معلن",
+    "explanation": "الدخول بصفة مباغتة وسريعة دون تنبيه أو إرسال إنذار مسبق للديوان."
+    },
+    "invitation": {
+    "translation": "دَعْوَة",
+    "root": "د - ع - و",
+    "type": "اسم مفرد نكرة مجرور بالكسرة",
+    "explanation": "المستند والطلب الودي الشرفي المرسل لحل الضيف مكرماً في الملتقى."
+    },
+    "sun": {
+    "translation": "شَمْس",
+    "root": "ش - م - س",
+    "type": "اسم مفرد مؤنث",
+    "explanation": "النجم الرئيسي المشع والمسؤول عن الضياء وحرارة البادية الوجدانية الصافية."
+    },
+    "sky": {
+    "translation": "سَمَاء",
+    "root": "س - م - و",
+    "type": "اسم مفرد مؤنث مجرور بالكسرة",
+    "explanation": "القبة الزرقاء العلوية الممتدة فوق السهول والصحراء وتضم النجوم البراقة."
+    },
+    "protested": {
+    "translation": "احْتَجَّتْ / غَضِبَتْ",
+    "root": "ح - ج - ج",
+    "type": "فعل ماضٍ متصل بتاء التأنيث الساكنة",
+    "explanation": "إبداء الاعتراض الشديد والرفض لوقوع تصرف خاطئ أو مباغت ومزعج."
+    },
+    "Because": {
+    "translation": "لِأَنَّ / بِسَبَبِ أَنَّ",
+    "root": "حرف تعليلي للسبب",
+    "type": "حرف تعليل ونصب سياقي مبني",
+    "explanation": "يوضح العلة النحوية أو السبب المباشر خلف التمكين وحفظ الأشقاء."
+    },
+    "traveled": {
+    "translation": "سَافَرْتُ / ارْتَحَلْتُ",
+    "root": "س - ف - ر",
+    "type": "فعل ماضٍ متصل بتاء الفاعل مبني على السكون",
+    "explanation": "السفر وقطع الفيافي والقفار لمهام استكشافية ودبلوماسية سامية."
+    },
+    "on": {
+    "translation": "عَلَى / بِرِعَايَةِ",
+    "root": "حرف جر",
+    "type": "حرف جر مبني",
+    "explanation": "الاستناد والاعتماد الكامل على سلطة وعهد موثوق ونافذ بالبلاد."
+    },
+    "authority": {
+    "translation": "سُلْطَة / نُفُوذ رَسْمِيّ",
+    "root": "س - ل - ط",
+    "type": "اسم مفرد مجرور بالكسرة",
+    "explanation": "القوة والمنعة القانونية التي تحمي المسافر وتصون عهده وسلامته."
+    },
+    "greater": {
+    "translation": "أَعْظَم شَأْنًا / أَكْبَر",
+    "root": "ع - ظ - م",
+    "type": "اسم تفضيل مجرور بالكسرة صفة",
+    "explanation": "الصفة التي تفوق غيرها في القيمة والأهمية والتأثير المطلق بالصحراء."
+    },
+    "friend": {
+    "translation": "صَدِيق / صَاحِب",
+    "root": "ص - د - ق",
+    "type": "اسم مفرد مذكر مجرور بالإضافة",
+    "explanation": "الرفيق الصدوق المألوف الذي تربطه بالمرء المودة والصدق بالعهد."
+    },
+    "whole": {
+    "translation": "كَامِل / كُلّ",
+    "root": "ك - م - ل",
+    "type": "صفة مضاف إليها",
+    "explanation": "الشمول الشاسع والكامل لكافة التفاصيل والأقاليم دون تجزئة."
+    },
+    "What": {
+    "translation": "مَاذَا / مَا الَّذِي",
+    "root": "اسم استفهام مبني",
+    "type": "أداة استفهام لغير العاقل",
+    "explanation": "أداة يستعلم بها المتكلم لمعرفة حقيقة شأن أو تصرف سياسي غامض."
+    },
+    "do": {
+    "translation": "يَفْعَلُ / يَصْنَعُ",
+    "root": "ف - ع - ل",
+    "type": "فعل رئيسي / مساعد مضارع",
+    "explanation": "القيام بالعمل وتسيير المهام والمشاورات الرسمية في المجلس."
+    },
+    "Is": {
+    "translation": "هَلْ يَكُونُ / هَلْ",
+    "root": "ك - و - ن",
+    "type": "فعل مساعد / حرف استفهام سياقي",
+    "explanation": "أداة لطلب التصديق والتأكيد بمضمون الجملة الحالية المعروضة."
+    },
+    "true?": {
+    "translation": "صَحِيحٌ؟",
+    "root": "ص - ح - ح",
+    "type": "صفة مشبهة مستفهم بها",
+    "explanation": "طلب تأكيد مطابقة القول للواقع الفعلي الصادق بلا شك مريب."
+    },
+    "Could": {
+    "translation": "هَلْ كَانَ بِمَقْدُورِهِ",
+    "root": "ط - و - ع",
+    "type": "فعل مساعد للاستفهام والاحتمالية",
+    "explanation": "الاستفسار اللطيف والمهذب عن مدى إمكانية حدوث أمر مرتقب مستقبلاً."
+    },
+    "Emir": {
+    "translation": "الْأَمِير",
+    "root": "أ - م - ر",
+    "type": "اسم مذكر مبتدأ مرفوع",
+    "explanation": "من يملك لقب الإمارة والسيادة والجاه الشريف للقبائل والرجال."
+    },
+    "one": {
+    "translation": "وَاحِد / ذَات يَوْم",
+    "root": "و - ح - د",
+    "type": "اسم عدد للمفرد مذكر",
+    "explanation": "تعبير يفيد الفردية أو الإشارة لوقت قادم غامض في المستقبل."
+    },
+    "day": {
+    "translation": "يَوْم",
+    "root": "ي - و - م",
+    "type": "اسم مفرد مذكر منصوب سياقي ظرف",
+    "explanation": "النهار أو الفترة المكتملة من شروق الشمس لغروبها لبيان الزمان."
+    },
+    "King": {
+    "translation": "مَلِك",
+    "root": "م - ل - ك",
+    "type": "اسم مذكر خبر مرفوع بالضمة",
+    "explanation": "رأس السلطة والسيادة العليا وصاحب التاج والحكم السياسي بالبلاد."
+    },
+    "all": {
+    "translation": "كُلّ / جَمِيع أَرْجَاء",
+    "root": "ك - ل - ل",
+    "type": "اسم استغراق مضاف منصوب",
+    "explanation": "الشمول والاتساع الجغرافي لكافة القبائل والسهول دون نقصان."
+    },
+    "Arabia?": {
+    "translation": "الْجَزِيرَةِ الْعَرَبِيَّة؟",
+    "root": "ع - ر - ب",
+    "type": "اسم علم جغرافي مضاف إليه مجرور مستفهم به",
+    "explanation": "شبه الجزيرة العربية مهاد اللغة العربية الفصيحة والرسالة والرجال."
+    },
+    "thought": {
+    "translation": "كُنْتُ أَظُنُّ / اعْتَقَدْتُ",
+    "root": "ظ - ن - ن (أو ف - ك - ر)",
+    "type": "فعل ماضٍ مبني متصل بالتاء الفاعل / مصدر",
+    "explanation": "بناء الظن والاعتقاد المسبق القابل للبحث والتقصي العلمي الصريح."
+    },
+    "an": {
+    "translation": "أَدَاةُ تَنْكِيرٍ لِلْمُفْرَدِ",
+    "root": "حرف تنكير مبني",
+    "type": "حرف تنكير مسبوق بحرف علة",
+    "explanation": "تسبق الاسم المفرد النكرة لتوضيح شيوعه وعدم تحديده المسبق للمستمع."
+    },
+    "never": {
+    "translation": "أَبَدًا / لَمْ يَحْدُث قَطّ",
+    "root": "أ - ب - د",
+    "type": "ظرف زمان منصوب لنفي الاستغراق",
+    "explanation": "تُستخدم لتأكيد النفي المطلق القاطع لوقوع الفعل في الحاضر أو المستقبل."
+    },
+    "discussed": {
+    "translation": "نَاقَشْنَا / تَحَاوَرْنَا بِـ",
+    "root": "ن - ق - ش",
+    "type": "فعل ماضٍ مبني مسند لضمير المتكلمين نحن",
+    "explanation": "تبادل الآراء والحجج النحوية أو السياسية بالمجلس للوصول لحلول سديدة."
+    },
+    "politics": {
+    "translation": "السِّيَاسَة / شُؤُون الْحُكْم",
+    "root": "س - ي - س",
+    "type": "اسم معرف منصوب مفعول به",
+    "explanation": "علم وإدارة العلاقات وتنظيم شؤون الدولة وعقد الاتفاقيات الدبلوماسية."
+    },
+    "over": {
+    "translation": "عَلَى / خِلَالَ تَنَاوُل",
+    "root": "حرف ظرفية مصاحبة",
+    "type": "حرف جر / ظرف مصاحبة مبني",
+    "explanation": "الوجود والتزامن الحاصل أثناء تناول وجبة العشاء مع الضيوف والأمير."
+    },
+    "dinner": {
+    "translation": "الْعَشَاء",
+    "root": "ع - ش - و",
+    "type": "اسم معرف مضاف إليه مجرور بالكسرة",
+    "explanation": "الوجبة المعتادة التي يتناولها الحاضرون بعد غياب قرص الشمس ليلاً."
+    },
+    "table": {
+    "translation": "طَاوِلَة / مَائِدَة",
+    "root": "ط - و - ل",
+    "type": "اسم مفرد مجرور بالكسرة",
+    "explanation": "المسطح الخشبي المستخدم للاجتماع وتناول الأطباق وتبادل أطراف الحديث المهذب."
+    },
+    "How": {
+    "translation": "كَيْفَ / كَيْفَ تَسِيرُ",
+    "root": "ك - ي - ف",
+    "type": "اسم استفهام للكيفية والحال مبني",
+    "explanation": "يُستعلم به عن مآل وتطورات مشروعات الإعمار والترميم القائمة بالبلاد."
+    },
+    "restoration": {
+    "translation": "أَعْمَالُ اسْتِعَادَةِ / تَرْمِيم",
+    "root": "ع - و - d",
+    "type": "مصدر للفعل السداسي مبتدأ مرفوع",
+    "explanation": "ترميم وإصلاح القلاع والحصون القديمة وصونها وإرجاعها لحالتها السابقة المهيبة."
+    },
+    "going?": {
+    "translation": "تَسِيرُ؟ / تَجْرِي؟",
+    "root": "س - ي - ر",
+    "type": "فعل مضارع مستمر / اسم فاعل مستفهم به",
+    "explanation": "الاستفسار عن استمرار التقدم الميداني والتنفيذي لأعمال الإعمار حالياً."
+    },
+    "Never": {
+    "translation": "أَبَدًا (لِلْمَنْعِ الْقَاطِعِ)",
+    "root": "أ - ب - د",
+    "type": "ظرف زمان منصوب لتأكيد الرفض",
+    "explanation": "تأكيد الرفض المطلق والمنع التام من الإقدام على صفقات عقارية غير مجدية."
+    },
+    "buy": {
+    "translation": "تَشْتَرِي",
+    "root": "ش - ر - ي",
+    "type": "فعل مضارع للمخاطب مجزوم بلا الناهية مضمرة",
+    "explanation": "امتلاك العقارات أو القلاع بدفع مقابل مالي معلوم ومثبت في الصكوك."
+    },
+    "castle": {
+    "translation": "قَلْعَة / حِصْن حَصِين",
+    "root": "ق - ل - ع",
+    "type": "اسم مفرد نكرة مفعول به منصوب",
+    "explanation": "المبنى الحصين والقلعة المخصصة للدفاع والمراقبة قديماً ضد هجمات العدو."
+    },
+    "Montague": {
+    "translation": "مُونْتَاجُو",
+    "root": "اسم أعجمي",
+    "type": "اسم علم مذكر أعجمي",
+    "explanation": "اسم للشخصية البريطانية النبيلة ذات الصلة بصفقات تملك القلاع والقصر."
+    },
+    "Gertrude": {
+    "translation": "جِيرْتْرُود",
+    "root": "اسم علم مؤنث أعجمي",
+    "type": "اسم علم مؤنث",
+    "explanation": "الباحثة والمستشرقة جيرترود بيل التي أسهمت في تخطيط حدود الإقليم سياسياً."
+    },
+    "Bell": {
+    "translation": "بِيل (عَائِلَة)",
+    "root": "اسم أعجمي",
+    "type": "اسم علم مضاف إليه",
+    "explanation": "اسم العائلة للمستشرقة والرحالة البريطانية جيرترود بيل."
+    },
+    "persuasive": {
+    "translation": "مُقْنِعَة",
+    "root": "ق - ن - ع",
+    "type": "صفة مشبهة مؤنثة مرفوعة خبر",
+    "explanation": "التحلي بقدرة فائقة على التأثير والمنطق اللغوي لجعل المحاور يقبل الحجة."
+    },
+    "matter": {
+    "translation": "مَسْأَلَة / مَوْضُوع",
+    "root": "س - أ - ل (أو ق - ض - ي)",
+    "type": "اسم مفرد نكرة خبر / مبتدأ",
+    "explanation": "الشأن أو الفكرة المطروحة للنقاش وتبادل الآراء في ديوان الأمير."
+    },
+    "read": {
+    "translation": "اِقْرَأْ",
+    "root": "ق - ر - أ",
+    "type": "فعل أمر مبني على السكون",
+    "explanation": "أمر بالاطلاع والفهم والمدارسة العميقة للتقارير والملخصات المكتوبة."
+    },
+    "her": {
+    "translation": "خَاصٌّ بِهَا / لَهَا",
+    "root": "ضمير غائبة مؤنثة",
+    "type": "ضمير ملكية متصل للغائبة",
+    "explanation": "نسبة وتوجيه ملكية الوثيقة أو التقرير للمستشرقة المذكورة سلفاً."
+    },
+    "report": {
+    "translation": "تَقْرِير / بَيَان مَكْتُوب",
+    "root": "ق - ر - ر",
+    "type": "اسم مفرد نكرة مفعول به منصوب",
+    "explanation": "البيان والملخص المكتوب لتأكيد الحقائق ورصد التطورات السياسية والإقليمية."
+    },
+    "keep": {
+    "translation": "يُوَاصِل / يَسْتَمِرّ",
+    "root": "و - ص - ل",
+    "type": "فعل مضارع / فعل أمر سياقي",
+    "explanation": "المواصلة والاستمرار على نفس السلوك وتجنب التوقف عن العذر."
+    },
+    "avoiding": {
+    "translation": "تَجَنُّب / يَتَفَادَى",
+    "root": "ج - ن - ب",
+    "type": "مصدر للفعل الخماسي / اسم فاعل",
+    "explanation": "الابتعاد والتواري عن إعطاء رد مباشر أو التهرب الودي الذكي من المحاورة."
+    },
+    "Wait": {
+    "translation": "انْتَظِرْ",
+    "root": "ن - ظ - ر",
+    "type": "فعل أمر مبني على السكون للمخاطب",
+    "explanation": "طلب التمهل والتأنّي وعدم الاستعجال حتى يتهيأ الظرف والوقت المناسب."
+    },
+    "until": {
+    "translation": "حَتَّى (لِلْغَايَةِ)",
+    "root": "ح - ت - ي",
+    "type": "حرف جر وغاية مبني",
+    "explanation": "تحديد نهاية الحد الزمني الفاصل المرتبط بانتهاء وقوع الفعل."
+    },
+    "he": {
+    "translation": "هُوَ (لِلْمُفْرَدِ الْمُذَكَّرِ الْغَائِبِ)",
+    "root": "ضمير غائب",
+    "type": "ضمير منفصل في محل رفع مبتدأ",
+    "explanation": "يُستخدم لتمثيل والإشارة للمفرد المذكر الغائب في سياق الحديث الشائق."
+    },
+    "drunk": {
+    "translation": "شَرِبَ / اِنْتَهَى مِنْ شَرَابِه",
+    "root": "ش - ر - ب",
+    "type": "فعل ماضٍ مبني / اسم فاعل سياقي",
+    "explanation": "الانتهاء من تجرع وتناول المشروب بالكامل وفراغ الوعاء والصحن."
+    },
+    "his": {
+    "translation": "خَاصٌّ بِهِ / لَهُ",
+    "root": "ضمير غائب مذكر",
+    "type": "ضمير ملكية متصل للغائب المفرد المذكر",
+    "explanation": "نسبة وتوجيه ملكية المشروب للشخص الغائب المعني بالكلام والاعتذار."
+    },
+    "first": {
+    "translation": "الْأَوَّل / طَلِيعَة",
+    "root": "أ - و - ل",
+    "type": "صفة عددية / ظرف منصوب",
+    "explanation": "ما يقع في مقدمة الترتيب ويسبق كافة الأجزاء اللاحقة له."
+    },
+    "whiskey": {
+    "translation": "شَرَاب (وِيسْكِي)",
+    "root": "اسم أعجمي معرب لشراب كحولي",
+    "type": "اسم مفرد نكرة مفعول به",
+    "explanation": "المشروب الكحولي المفضل للضيف الغربي في سهرته الخاصة بقصر الأمير."
+    },
+    "master": {
+    "translation": "سَيِّد / مَسْؤُول",
+    "root": "س - و - d",
+    "type": "اسم مفرد مذكر فاعل مرفوع",
+    "explanation": "صاحب السيادة والجاه والكلمة الأولى الموجهة لتصرفات الشخص الحوار."
+    },
+    "has": {
+    "translation": "يَمْلِكُ / لَدَيْهِ",
+    "root": "م - ل - ك",
+    "type": "فعل مساعد للمفرد الغائب",
+    "explanation": "فعل يدل على ملكية الموارد والخيول أو تطبيق النفوذ والسيطرة."
+    },
+    "asked": {
+    "translation": "طَلَبَ / سَأَلَ عَنْ",
+    "root": "س - أ - ل (أو ط - ل - ب)",
+    "type": "فعل ماضٍ مبني على الفتح",
+    "explanation": "المطالبة الشفهية بالحصول على كوب الشاي الساخن أو الرعاية بالمجلس."
+    },
+    "for": {
+    "translation": "لِأَجْلِ / لِـ",
+    "root": "حرف جر تعليلي",
+    "type": "حرف جر مبني",
+    "explanation": "حرف يفيد بيان التعليل والهدف والجهة المقصودة بالطلب والخدمة."
+    },
+    "mint": {
+    "translation": "نَعْنَاع",
+    "root": "ن - ع - ن - ع",
+    "type": "اسم نكرة مضاف مجرور",
+    "explanation": "النبتة العشبية الخضراء العطرة التي تضاف للشاي لإكسابه مذاقاً منشطاً."
+    },
+    "tea": {
+    "translation": "شَاي",
+    "root": "اسم معرب",
+    "type": "اسم مفرد مضاف إليه مجرور بالكسرة",
+    "explanation": "الشراب العطري الساخن الشائع المحضر من أوراق نبات الشاي الصيني المعتق."
+    },
+    "Would": {
+    "translation": "أَلَا تَسْمَحُ / هَلْ",
+    "root": "ك - و - ن",
+    "type": "فعل مساعد لعرض الطلب بأدب",
+    "explanation": "صيغة استفهامية ناعمة تُستعمل لطلب المساعدة أو تقديم العرض بتهذيب إمبراطوري."
+    },
+    "kind": {
+    "translation": "لَطِيفًا / لَبِقًا",
+    "root": "ل - ط - ف",
+    "type": "صفة منصوبة خبر يَكُون مضمرة",
+    "explanation": "التحلي بجمال الأدب واللباقة لإرشاد الأشقاء ومساعدتهم بالمجلس."
+    },
+    "enough": {
+    "translation": "بِمَا يَكْفِي / كَافٍ",
+    "root": "ك - ف - ي",
+    "type": "ظرف تأكيد للصفة منصوب",
+    "explanation": "بلوغ القدر المقبول والمرضي لتقديم العون وتبيان المودة."
+    },
+    "show": {
+    "translation": "يُرِيَ / يُعَلِّمَ",
+    "root": "ر - أ - ي (أو ع - ل - م)",
+    "type": "فعل مضارع منصوب / مصدر مؤول",
+    "explanation": "الإرشاد والتوضيح الفعلي لكيفية إعداد الشاي أو سلوك البادية الصحيح."
+    },
+    "us": {
+    "translation": "إيَّانَا / نَا (ضمير المتكلمين)",
+    "root": "ضمير متكلمين جمع",
+    "type": "ضمير متصل في محل نصب مفعول به",
+    "explanation": "ضمير متصل يعود على مجموعة المتكلمين لطلب الرؤية والتعليم المفيد."
+    },
+    "made?": {
+    "translation": "صُنِعَ؟ / أُعِدَّ؟",
+    "root": "ص - n - ع",
+    "type": "فعل ماضٍ مبني للمجهول مستفهم به",
+    "explanation": "عملية التحضير والصناعة السابقة للشراب للتأكد من خطوات إتقانه الباهرة."
+    },
+    "Of": {
+    "translation": "مِنْ / طَبِيعَة (بِالطَّبْعِ)",
+    "root": "حرف جر",
+    "type": "حرف جر مبني لبيان البعضية والعلة",
+    "explanation": "يدل على المنشأ أو يركب مع كلمة course ليفيد الحتمية المطلقة للطلب."
+    },
+    "course": {
+    "translation": "طَبِيعَة / مَسَار (بِالطَّبْعِ)",
+    "root": "ط - ب - ع",
+    "type": "اسم مفرد مجرور مضاف إليه",
+    "explanation": "يفيد القبول الودي التام وتأكيد جاهزية تلبية مطلب الأمير فوراً."
+    },
+    "Over": {
+    "translation": "انْتَهَى / فَوْقَ",
+    "root": "ف - و - ق",
+    "type": "ظرف مكان / أداة إنهاء سياقية مبنية",
+    "explanation": "الفراغ التام من أمر أو تجاوز العقبات العسكرية واللوجستية بالبلاد."
+    },
+    "All": {
+    "translation": "جَمِيع / كُلّ",
+    "root": "ك - ل - l",
+    "type": "اسم استغراق مبتدأ مرفوع",
+    "explanation": "الشمول والعموم الكامل لكافة المقدرات والخيول والموارد المتاحة للقبائل."
+    },
+    "good": {
+    "translation": "جَيِّد / صَالِح",
+    "root": "ج - و - د",
+    "type": "صفة مذكر مرفوعة خبر",
+    "explanation": "الأمر المستحب المتقن الذي يحظى بقبول وتأييد الرجال في الديوان."
+    },
+    "simply": {
+    "translation": "بِبَسَاطَةٍ / مَحْض",
+    "root": "ب - س - ط",
+    "type": "ظرف حال منصوب لبيان السهولة",
+    "explanation": "توضيح وتلخيص المسألة بأيسر السبل دون تعقيد أو جدل مفسد للود."
+    },
+    "don": {
+    "translation": "لَا (أَدَاةُ نَفْيٍ مُخَفَّفَة)",
+    "root": "حرف نفي منقوص",
+    "type": "أداة نفي للجملة الفعلية",
+    "explanation": "اختصار لـ (do not) وتُستخدم لنفي وفرة الموارد أو نجاح الحرب سدى."
+    },
+    "resources": {
+    "translation": "مَوَارِد / مُدَّخَرَات",
+    "root": "و - ر - د",
+    "type": "اسم جمع تكسير فاعل مرفوع بالضمة",
+    "explanation": "السيولة المالية والرجال والعتاد اللازم لإرساء السيادة وحماية القرى."
+    },
+    "maintain": {
+    "translation": "يُحَافِظَ عَلَى / يَصُونَ",
+    "root": "ح - ف - ظ",
+    "type": "فعل مضارع منصوب / مصدر مؤول",
+    "explanation": "الحرص على بقاء وحماية المنعة والاستقرار للسيطرة الأمنية بالبلاد."
+    },
+    "control": {
+    "translation": "سَيْطَرَة / نُفُوذ",
+    "root": "س - ي - ط - ر",
+    "type": "اسم مفرد نكرة مفعول به منصوب",
+    "explanation": "الهيمنة وبسط النفوذ القانوني والعسكري الشامل لحماية ديار المسلمين."
+    },
+    "Day": {
+    "translation": "يَوْم (بِاسْتِمْرَار)",
+    "root": "ي - و - م",
+    "type": "اسم مفرد مذكر مبتدأ / ظرف سياقي",
+    "explanation": "بيان استنزاف الموارد والمال بشكل متعاقب ومستمر دون طائل مرجو."
+    },
+    "after": {
+    "translation": "بَعْدَ / عَقِبَ",
+    "root": "ب - ع - د",
+    "type": "ظرف زمان منصوب مضاف",
+    "explanation": "يفيد التوالي والتعاقب الزمني المباشر بين الأيام والأسابيع الحالية."
+    },
+    "week": {
+    "translation": "أُسْبُوع",
+    "root": "س - ب - ع",
+    "type": "اسم مفرد مضاف إليه مجرور بالكسرة",
+    "explanation": "الفترة الزمنية البالغة سبعة أيام كاملة ومكتملة بلياليها وسهراتها."
+    },
+    "continuance": {
+    "translation": "اسْتِمْرَارِيَّة / تَعَاقُب صِرَاع",
+    "root": "م - ر - ر",
+    "type": "اسم مفرد مجرور بالإضافة",
+    "explanation": "مواصلة الحرب والقتال العنيف دون توقف أو رغبة حقيقية بالهدنة وصون الدم."
+    },
+    "this": {
+    "translation": "هَذَا (لِلْمُفْرَدِ الْمُذَكَّرِ الْقَرِيبِ)",
+    "root": "إشارة للمفرد",
+    "type": "اسم إشارة للمفرد المذكر القريب",
+    "explanation": "توجيه الانتباه الفوري لقضية الصراع المسلح والحرب الدائرة حالياً."
+    },
+    "wasteful": {
+    "translation": "مُسْتَنْزِف / مُبَدِّر لِلْمَال",
+    "root": "ن - ز - ف (أو ب - ذ - ر)",
+    "type": "صفة مذكر مجرورة نعت",
+    "explanation": "سلوك مسبب لضياع وتشتت الموارد الثمينة دون تحقيق أهداف تذكر."
+    },
+    "miserable": {
+    "translation": "بَائِس / كَئِيب",
+    "root": "ب - أ - س",
+    "type": "صفة مذكر مجرورة نعت ثان",
+    "explanation": "الحالة السيئة المحزنة المسببة للضيق وضنك العيش للجنود والرجال."
+    },
+    "sporadic": {
+    "translation": "مُتَقَطِّع / مُتَفَرِّق",
+    "root": "ف - ر - ق",
+    "type": "صفة مذكر مجرورة نعت ثالث",
+    "explanation": "ما يقع على فترات متباعدة وغير منتظمة في الزمان والمكان."
+    },
+    "warfare": {
+    "translation": "حَرْب / صِرَاع مُسَلَّح",
+    "root": "ح - ر - ب",
+    "type": "اسم مفرد مجرور بالكسرة بالإضافة",
+    "explanation": "النزاع والقتال العنيف الدائر بين القبائل أو الجيوش النظامية لحكم البلاد."
+    },
+    "yeah": {
+    "translation": "نَعَم / أَجَل (عَامِّيَّة غَرْبِيَّة)",
+    "root": "حرف جواب عامي",
+    "type": "حرف إيجاب وتصديق دارج",
+    "explanation": "المرادف غير الرسمي للفظ الفصيح (نَعَم) لتأكيد وقبول وجهة نظر الأمير."
+    },
+    "single": {
+    "translation": "مُفْرَد / مَحْض وَاحِد",
+    "root": "ف - ر - د",
+    "type": "صفة / اسم نكرة",
+    "explanation": "الفرد الواحد، والمقصود به عدم وجود أي وسيلة إعلام أو صحيفة تبرر موقفنا."
+    },
+    "press": {
+    "translation": "صَحَافَة / وَسَائِل إِعْلَام",
+    "root": "ص - ح - ف",
+    "type": "اسم مفرد فاعل مرفوع بالضمة",
+    "explanation": "الجرائد والمقالات المهتمة بنقل الأخبار والتأثير البالغ على الرأي العام الدولي."
+    },
+    "upon": {
+    "translation": "عَلَى / فَوْقَ",
+    "root": "حرف ظرفية",
+    "type": "حرف جر مبني للتوكيد",
+    "explanation": "حرف يفيد توجيه وتسليط الضوء بقوة على قضية أو موضوع الحوار."
+    },
+    "subject": {
+    "translation": "مَوْضُوع / مَسْأَلَة نِقَاش",
+    "root": "و - ض - ع",
+    "type": "اسم مفرد مجرور بالكسرة",
+    "explanation": "القضية والشأن السياسي الهام الذي يشغل الحاضرين بالديوان حالياً."
+    },
+    "Cradle": {
+    "translation": "مَهْد / مَنْشَأ",
+    "root": "م - ه - د",
+    "type": "اسم مفرد نكرة مجرور مضاف",
+    "explanation": "البقعة والنشأة الأولى الجغرافية التي بدأت منها حضارات الأمم العظيمة."
+    },
+    "civilization": {
+    "translation": "حَضَارَة",
+    "root": "ح - ض - ر",
+    "type": "اسم مفرد مؤنث مضاف إليه مجرور بالكسرة",
+    "explanation": "الطور المتقدم للتطور والإنتاج البشري والثقافي والمدني للمجتمعات القديمة."
+    },
+    "and": {
+    "translation": "وَ (حَرْفُ رَبْطٍ)",
+    "root": "حرف عطف",
+    "type": "حرف عطف مبني للمشاركة المطلقة",
+    "explanation": "يجمع ويربط الكلمات والعبارات لبيان المشاركة التامة في الحكم والسياق."
+    },
+    "they": {
+    "translation": "هُمْ (لِلْغَائِبِينَ)",
+    "root": "ضمير غائب جمع",
+    "type": "ضمير منفصل في محل رفع مبتدأ للجمع المذكر",
+    "explanation": "ضمير غائب يعود على مجموعة الصحفيين أو المسؤولين الغربيين المعنيين."
+    },
+    "can": {
+    "translation": "يَسْتَطِيعُون / بِمَقْدُورِهِم",
+    "root": "ط - و - ع",
+    "type": "فعل مساعد مضارع للجمع المذكر",
+    "explanation": "بيان توافر الإمكانيات والوسع الكافي للقيام بالفعل والتدوين."
+    },
+    "afford": {
+    "translation": "يَتَحَمَّلُونَ كُلْفَةَ / يَقْدِرُونَ عَلَى",
+    "root": "ق - د - ر",
+    "type": "فعل مضارع مرفوع بضم مقدرة / مصدر مؤول",
+    "explanation": "امتلاك القدر المالي والأدبي الكافي لتغطية نفقات الصحف وطباعة المقالات."
+    },
+    "ink": {
+    "translation": "حِبْر",
+    "root": "ح - ب - ر",
+    "type": "اسم نكرة مذكر منصوب مفعول به",
+    "explanation": "السائل الملون الأسود أو الأزرق المستخدم للكتابة وتدوين المقالات بالصحف."
+    },
+    "Doesn": {
+    "translation": "أَلَا يُذَكِّرُكَ (نَفْي)",
+    "root": "أداة نفي واستفهام",
+    "type": "أداة استفهام تقريرية منفية منقوصة",
+    "explanation": "اختصار لـ (Does not)، وتُستخدم لصياغة سؤال تقريري عما إذا كان هذا يذكر بالوطن."
+    },
+    "remind": {
+    "translation": "يُذَكِّرُ",
+    "root": "ذ - ك - ر",
+    "type": "فعل مضارع مذكر مرفوع بالضمة",
+    "explanation": "استدعاء واسترجاع المشاهد والذكريات السالفة لعقل السامع والمخاطب."
+    },
+    "being": {
+    "translation": "التَّوَاجُد / كَيْنُونَة",
+    "root": "ك - و - ن",
+    "type": "اسم فاعل / مصدر للفعل الناقص",
+    "explanation": "الحلول والوجود الفعلي والوجداني للإنسان في وطنه وبيئته المألوفة."
+    },
+    "home?": {
+    "translation": "الْوَطَن؟ / مَسْكَنُ الْعَائِلَة؟",
+    "root": "و - ط - ن",
+    "type": "اسم مفرد مذكر مجرور مستفهم به",
+    "explanation": "الموطن الجغرافي والبلد الأصلي والنشأة الأولى التي يحن إليها الإنسان."
+    },
+    "The": {
+    "translation": "الـ (أَدَاةُ تَعْرِيفٍ رَسْمِيَّةٍ)",
+    "root": "حرف تعريف",
+    "type": "حرف تعريف مبني لتخصيص الأسماء",
+    "explanation": "تسبق الأسماء لغرض تخصيصها وحصر مدلولها في ذهن المستمع بالكامل."
+    },
+    "men": {
+    "translation": "الرِّجَال",
+    "root": "ر - ج - ل",
+    "type": "اسم جمع تكسير مذكر مبتدأ مرفوع",
+    "explanation": "الذكور البالغون أصحاب الكلمة والنفوذ والسيادة والجاه في ديوان الأمير."
+    },
+    "discussing": {
+    "translation": "يَتَنَاقَشُونَ / يَتَحَاوَرُونَ فِي",
+    "root": "ن - ق - ش",
+    "type": "فعل مضارع مستمر للجمع / اسم فاعل سياقي",
+    "explanation": "التحاور الودي والتباحث المنظم حول مصير ومستقبل حكم البلاد والقبائل."
+    },
+    "affairs": {
+    "translation": "شُؤُون / مَصَالِح رَسْمِيَّة",
+    "root": "ش - أ - ن",
+    "type": "اسم جمع تكسير مفعول به مضاف",
+    "explanation": "المهام والاتفاقيات والمصالح السياسية والاجتماعية التي تهم كيان الدولة."
+    },
+    "state": {
+    "translation": "الدَّوْلَة / الْكِيَان السِّيَاسِيّ",
+    "root": "د - و - ل",
+    "type": "اسم مفرد مؤنث مضاف إليه مجرور بالكسرة",
+    "explanation": "الحدود والنظام السياسي الحاكم والمعترف به رسمياً وشعبياً بالبلاد."
+    },
+    "feel": {
+    "translation": "يَشْعُرُ / يُحِسُّ",
+    "root": "ش - ع - ر (أو ح - س - س)",
+    "type": "فعل مضارع للمتكلم المفرد مرفوع بالضمة",
+    "explanation": "الإحساس الوجداني والقلبي العميق بالانسجام والألفة والمنعة بالوطن."
+    },
+    "home": {
+    "translation": "الْوَطَن / مَسْكَن الْعَائِلَة",
+    "root": "و - ط - ن",
+    "type": "اسم مفرد مذكر منصوب ظرف سياقي",
+    "explanation": "المأوى والبلد الذي ينتمي إليه المرء ويسكن قلبه وروحه بالأمان."
+    },
+    "Before": {
+    "translation": "قَبْلَ أَنْ / قَبْلَ",
+    "root": "ق - ب - ل",
+    "type": "ظرف زمان منصوب مضاف",
+    "explanation": "تحديد التوقيت الذي يسبق القيام بالانصراف والرحيل عن المجلس."
+    },
+    "leave": {
+    "translation": "تَرْحَل / تَنْصَرِف",
+    "root": "ر - ح - ل",
+    "type": "فعل مضارع منصوب / مصدر مؤول",
+    "explanation": "مغادرة المكان والانتقال ومفارقة فضاء البادية والعودة للوطن قريباً."
+    },
+    "come": {
+    "translation": "احْضُرْ / تَعَالَ إِلَى",
+    "root": "ج - ي - أ (أو ح - ض - ر)",
+    "type": "فعل أمر مبني للمخاطب / فعل مضارع",
+    "explanation": "طلب المجيء والحلول ضيفاً لتناول طعام الغداء وحضور ملتقى النادي."
+    },
+    "club": {
+    "translation": "النَّادِي / المُلْتَقَى الِاجْتِمَاعِيّ",
+    "root": "ن - د - ي",
+    "type": "اسم مفرد مجرور بالكسرة مضاف إليه",
+    "explanation": "المجلس والملتقى الاجتماعي المخصص للنبلاء والمسؤولين لبحث القضايا العامة."
+    },
+    "guest": {
+    "translation": "ضَيْف / زَائِر مَكْرَم",
+    "root": "ض - ي - ف",
+    "type": "اسم مفرد نكرة مضاف إليه مجرور بالكسرة",
+    "explanation": "من يحل بمجلس الأمير أو النادي ضيفاً مكرماً وتوفر له الرعاية الكاملة."
+    },
+    "food": {
+    "translation": "الطَّعَام",
+    "root": "ط - ع - م",
+    "type": "اسم مفرد مذكر مبتدأ مرفوع بالضمة",
+    "explanation": "الأطباق والوجبات المعدة والمقدمة لضيافة الأشقاء والرجال بالمجلس."
+    },
+    "excellent": {
+    "translation": "مُمْتَاز / فَائِقُ الْجَوْدَةِ",
+    "root": "م - ي - ز",
+    "type": "صفة مشبهة خبر للمبتدأ مرفوع بالضمة",
+    "explanation": "المرتبة الفائقة والمتقنة التي تفوق الجيد جداً وتحظى باستحسان المذاق."
+    },
+    "that": {
+    "translation": "ذَلِكَ (لِلْإِشَارَةِ)",
+    "root": "إشارة للبعيد",
+    "type": "اسم إشارة للمفرد البعيد / حرف تعليلي",
+    "explanation": "توجيه الانتباه لحدث سابق وربطه بشكر المخاطب بأدب وتهذيب."
+    },
+    "very": {
+    "translation": "جِدًّا / لِلْغَايَةِ",
+    "root": "ظرف تأكيد ومبالغة",
+    "type": "ظرف مبالغة وتأكيد منصوب",
+    "explanation": "تأكيد وتقوية الصفة التي تليها وإبراز شدتها المرضية في الشكر."
+    },
+    "much": {
+    "translation": "كَثِيرًا / جَزِيلًا",
+    "root": "ك - ث - ر",
+    "type": "ظرف مقدار منصوب نعت للمفعول المطلق",
+    "explanation": "تعبير يستعمل للشكر الجزيل والامتنان البالغ والمسامحة بمجلس الأمير."
+    },
+    "Lord": {
+    "translation": "الْلُّورْد (لَقَبُ شَرَفٍ)",
+    "root": "اسم علم أعجمي تشريفي",
+    "type": "لقب توقير رسمي نبيل",
+    "explanation": "لقب بريطاني عريق يطلق لتوقير النبلاء وكبار الوزراء والمسؤولين."
+    },
+    "Curzon": {
+    "translation": "كُرْزُون",
+    "root": "اسم علم أعجمي مذكر",
+    "type": "اسم علم مذكر مضاف إليه",
+    "explanation": "شخص اللورد كرزون وزير الخارجية البريطاني والمسؤول الدبلوماسي الحاضر."
+    },
+    "But": {
+    "translation": "وَلَكِنْ / بَيْدَ أَنَّ",
+    "root": "حرف استدراك وعطف",
+    "type": "حرف استدراك مبني",
+    "explanation": "يُستعمل لاستدراك وتصحيح العبارة أو طلب اللقاء الخاص والمغلق."
+    },
+    "hope": {
+    "translation": "آمُلُ / أَرْجُو",
+    "root": "أ - م - ل (أو ر - ج - و)",
+    "type": "فعل مضارع مرفوع بالضمة للمتكلم المفرد",
+    "explanation": "تمني ورجاء نيل فرصة لقاء آخر خاص في المستقبل القريب بيقين حميم."
+    },
+    "another": {
+    "translation": "آخَرَ / بَدِيل",
+    "root": "أ - خ - ر",
+    "type": "صفة منصوبة للاجتماع الموصوف",
+    "explanation": "طلب لقاء إضافي مغاير للمجلس الحالي بين جهتين فقط لتبادل صريح."
+    },
+    "meeting": {
+    "translation": "اجْتِمَاع / لِقَاء رَسْمِيّ",
+    "root": "ج - م - ع",
+    "type": "اسم مفرد منصوب مفعول به",
+    "explanation": "اللقاء الرسمي المنظم لتبادل الآراء وصياغة الاتفاقيات السياسية."
+    },
+    "In": {
+    "translation": "فِي / بِـ (سِيَاقُ الْخُصُوصِيَّةِ)",
+    "root": "حرف جر",
+    "type": "حرف جر مبني",
+    "explanation": "تحديد سياق وإطار وقوع الاجتماع كأن يكون بخصوصية وسرية تامة."
+    },
+    "private": {
+    "translation": "خُصُوصِيَّة / انْفِرَاد سِرِّيّ",
+    "root": "ف - ر - د",
+    "type": "صفة مجرورة بالكسرة المقدرة / اسم",
+    "explanation": "الخلوة والسرية المطلقة للاجتماع لضمان صراحة التباحث وحل الأزمات."
+    },
+    "by": {
+    "translation": "بِـ / عَنْ طَرِيقِ",
+    "root": "حرف جر",
+    "type": "حرف جر مبني لبيان الوسيلة",
+    "explanation": "حرف يفيد بيان الوسيلة أو الواسطة المؤدية للوصول للبادية أو الإدارة."
+    },
+    "went": {
+    "translation": "ذَهَبْتُ / عُدْتُ",
+    "root": "ذ - ه - ب",
+    "type": "فعل ماضٍ متصل بتاء الفاعل مبني على السكون",
+    "explanation": "الارتحال ومغادرة القصر عائداً للموطن والبيئة الصحراوية السابقة للشاب."
+    },
+    "back": {
+    "translation": "عَائِدًا / رَاجِعًا",
+    "root": "ر - ج - ع (أو ع - و - د)",
+    "type": "ظرف حال منصوب / اتجاه سياقي",
+    "explanation": "الأوب والرجوع والعودة مجدداً للبيئة الطبيعية المألوفة للشخص."
+    },
+    "desert": {
+    "translation": "صَحْرَاء / بَادِيَة شَاسِعَة",
+    "root": "ص - ح - ر",
+    "type": "اسم مفرد نكرة مجرور بالكسرة",
+    "explanation": "الأراضي القاحلة الممتدة وتعتبر الموطن الأصيل لخيول ورجال البادية الشجعان."
+    },
+    "bloody": {
+    "translation": "دَمَوِيّ (لَعِين / سِيَاقُ غَضَبٍ)",
+    "root": "د - م - ي",
+    "type": "صفة عامية للتذمر غاضبة",
+    "explanation": "لفظ بريطاني دارج يستعمل كنوع من الشتيمة الخفيفة والتعبير عن الغضب."
+    },
+    "hell": {
+    "translation": "جَحِيم",
+    "root": "ج - ح - م",
+    "type": "اسم مفرد / صيغة تذمر شديد غاضب",
+    "explanation": "تعبير مجازي يعبر عن الغضب الشديد والأسف البالغ من وقوع الخطأ الشنيع أمام الأمير."
+    },
+    "did": {
+    "translation": "فَعَلَ / قَامَ بِـ",
+    "root": "ف - ع - ل",
+    "type": "فعل ماضٍ مساعد / رئيسي",
+    "explanation": "تطبيق وصناعة السلوك والتصرف بالزمن الماضي السالف للقول."
+    },
+    "purpose": {
+    "translation": "عَمْدًا / قَصْدًا",
+    "root": "ق - ص - د",
+    "type": "اسم مفرد / مفعول مطلق سياقي منصوب",
+    "explanation": "فعل السلوك الدافع بالنية المسبقة والإرادة الواضحة لإحداث الحرج."
+    },
+    "was": {
+    "translation": "كَانَ (لِلْمَاضِي)",
+    "root": "ك - و - ن",
+    "type": "فعل ماضٍ ناقص مبني على الفتح",
+    "explanation": "يدل على الوجود والحدوث والثبوت بالزمن الماضي السالف لحدث الانسكاب."
+    },
+    "accident": {
+    "translation": "حَادِثٌ عَرَضِيّ / صُدْفَة غَيْرُ مَقْصُودَةٍ",
+    "root": "ح - د - ث",
+    "type": "اسم مفرد خبر كَانَ مرفوع بالضمة المقدرة",
+    "explanation": "الواقعة والتصرف الذي يقع عفواً وخطأً دون نية مسبقة لإلحاق الأذى بالضيف."
+    },
+    "Marzuq": {
+    "translation": "مَرْزُوق",
+    "root": "ر - ز - ق",
+    "type": "اسم علم مذكر",
+    "explanation": "اسم لشخصية مرافقة مخلصة أو خادم بالحوار التاريخي الشهير."
+    },
+    "apologize": {
+    "translation": "يَعْتَذِرُ / يُقَدِّمُ أَسَفًا",
+    "root": "ع - ذ - ر",
+    "type": "فعل مضارع مذكر مرفوع بالضمة للغائب",
+    "explanation": "إبداء الأعذار اللائقة وطلب الصفح من الأمير لتفادي إحراج الموقف."
+    },
+    "Do": {
+    "translation": "اِفْعَلْ / صُنْ",
+    "root": "ف - ع - ل",
+    "type": "فعل أمر مبني على السكون للمخاطب",
+    "explanation": "طلب مباشر وحازم من الأمير للشاب للقيام بتصرف يزيل الحرج والتباعد."
+    },
+    "something": {
+    "translation": "شَيْئًا مَا / تَصَرُّفًا صَادِقًا",
+    "root": "ش - ي - أ",
+    "type": "اسم مبهم نكرة منصوب مفعول به",
+    "explanation": "أمر أو قول مادي أو معنوي يزيل الحرج والتباعد الحاصل بين الإخوة."
+    },
+    "sincerely": {
+    "translation": "بِصِدْق / بِإِخْلَاص تَّامّ",
+    "root": "خ - ل - ص (أو ص - د - ق)",
+    "type": "ظرف حال منصوب لبيان النية",
+    "explanation": "القيام بالاعتذار والقول الصادق بدافع النية المخلصة والقلب الصافي."
+    },
+    "still": {
+    "translation": "لَا زَالَ / مُسْتَمِرّ",
+    "root": "ز - و - ل",
+    "type": "ظرف استمرار حال مبني",
+    "explanation": "بقاء حال التعلم والاستكشاف على ما كان عليه وتأكيد استمراره الهادئ."
+    },
+    "learning": {
+    "translation": "يَتَعَلَّمُ / مُكْتَسِب لِلْمَهَارَة",
+    "root": "ع - ل - م",
+    "type": "مصدر للفعل الخماسي / مضارع مستمر سياقي",
+    "explanation": "اكتساب العلوم وتلقي مهارات صنع الشاي أو لغة البادية ببطء وتفهم."
+    },
+    "Splendid": {
+    "translation": "رَائِع / بَاهِرُ الْجَمَالِ",
+    "root": "ر - و - ع",
+    "type": "صفة مذكر مبتدأ أو نعت",
+    "explanation": "الشيء الفخم الباهر الذي يبعث البهجة والألفة في نفوس الساهرين بقصر الأمير."
+    },
+    "evening": {
+    "translation": "أُمْسِيَة / سَهْرَة سَعِيدَة",
+    "root": "م - س - ي",
+    "type": "اسم مفرد مبتدأ مؤخر مرفوع بالضمة",
+    "explanation": "الوقت المقضي في الحديث الودي والدبلوماسي الشائق في ساعات الليل الطيبة."
+    },
+    "highness": {
+    "translation": "سُمُوّ (تَوْقِير لِلْأَمِيرِ)",
+    "root": "س - م - و",
+    "type": "اسم مضاف مجهر لقب مرفوع",
+    "explanation": "تعبير يبرز التوقير والتبجيل للمكانة السامية للأمير المخاطب بالمجلس."
+    },
+    "yes": {
+    "translation": "نَعَم / أَجَل",
+    "root": "حرف جواب",
+    "type": "حرف إيجاب وتصديق مبني",
+    "explanation": "حرف مبني على السكون لإثبات وتصديق مقولة المحاور وتأييد كلامه."
+    },
+    "but": {
+    "translation": "وَلَكِنْ / إِلَّا",
+    "root": "حرف استدراك وعطف",
+    "type": "حرف استدراك مبني مخفف",
+    "explanation": "يُستعمل لاستدراك الكلام وتبيان الفوارق الدقيقة بين وجبات القصر والبادية."
+    },
+    "not": {
+    "translation": "لَيْسَ / لَا (أَدَاةُ نَفْيٍ)",
+    "root": "حرف نفي للجمل والصفات",
+    "type": "أداة نفي مبنية",
+    "explanation": "حرف نفي صريح يقطع بانتفاء التماثل أو وقوع الحدث والصفة المعروضة."
+    },
+    "lisay": {
+    "translation": "لَيْسَ لِي (سِيَاق مَحَلِّي مُخَفَّف)",
+    "root": "ل - ي - س",
+    "type": "تعبير نفي ونسبة متصل",
+    "explanation": "قد يمثل خطأ كتابة سياقياً للمستشرق يقصد به (ليس كـ) أو (ليس لي تملك القصر)."
+    },
+    "palace": {
+    "translation": "قَصْر رَسْمِيّ",
+    "root": "ق - ص - ر",
+    "type": "اسم مفرد مضاف إليه مجرور بالكسرة",
+    "explanation": "المسكن الفخم الكبير المخصص لولاية وحكم الأمير ومجالسه الرسمية."
+    },
+    "please": {
+    "translation": "مِنْ فَضْلِكَ / أَرْجُوك",
+    "root": "ف - ض - ل",
+    "type": "تعبير التماس وأدب منصوب سياقياً",
+    "explanation": "صيغة لغوية مهذبة ومحببة للغاية تستخدم لاستئذان الانصراف برقي."
+    },
+    "excuse": {
+    "translation": "اعْذُرْنِي / عُذْر رَسْمِيّ",
+    "root": "ع - ذ - ر",
+    "type": "فعل أمر للمتكلم مفعول به / اسم",
+    "explanation": "طلب التجاوز وتفهم رغبة الشاب في تفقد الخيول بالإسطبل بسلام."
+    },
+    "Where": {
+    "translation": "أَيْنَ",
+    "root": "اسم استفهام للمكان",
+    "type": "أداة استفهام مكانية مبنية",
+    "explanation": "أداة يُستعلم بها لمعرفة الوجهة الجغرافية والموقع الدقيق للإسطبل المقصود."
+    },
+    "Stables": {
+    "translation": "إِسْطَبْلَاتُ الْخَيْل",
+    "root": "اسم علم معرب",
+    "type": "اسم جمع مؤنث سالم مضاف مرفوع",
+    "explanation": "المبنى والموقع المخصص والمعد لإيواء الخيول العربية الأصيلة والعناية بها."
+    },
+    "failed": {
+    "translation": "فَشِلَ / تَعَذَّرَ تَّحْقِيقُه",
+    "root": "ف - ش - ل",
+    "type": "فعل ماضٍ مبني على الفتح",
+    "explanation": "عدم إحراز الهدف المرجو أو التسبب بإحراج الأشقاء أمام الضيوف الأكابر."
+    },
+    "are": {
+    "translation": "تَكُونُونَ / يَكُونُونَ (لِلْجَمْعِ)",
+    "root": "ك - و - ن",
+    "type": "فعل مضارع مساعد للجمع المذكر والمؤنث",
+    "explanation": "إثبات صلة الترابط والحدوث للجمع الغائب أو المخاطب بالوقت الحاضر."
+    },
+    "brothers": {
+    "translation": "إِخْوَة / أَشِقَّاء",
+    "root": "أ - خ - و",
+    "type": "اسم جمع تكسير خبر مرفوع بالضمة",
+    "explanation": "المترابطون بأواصر الإخاء الصادق والدم المشترك والمحبة العروبية المتينة."
+    },
+    "between": {
+    "translation": "بَيْنَ (ظَرْفُ وِسَاطَةٍ)",
+    "root": "ب - ي - ن",
+    "type": "ظرف مكان مضاف منصوب",
+    "explanation": "موقع الوسطية الحسي والمعنوي الفاصل أو الرابط بالود والصفح بين طرفين."
+    },
+    "drop": {
+    "translation": "قَطْرَة / حَبَّة مَطَر",
+    "root": "ق - ط - ر",
+    "type": "اسم مفرد نكرة منصوب على الاستثناء مضاف",
+    "explanation": "الوحدة السائلة الضئيلة المنسكبة من السائل لبيان شدة واستمرارية الترابط."
+    },
+    "water": {
+    "translation": "مَاء",
+    "root": "م - و - ه",
+    "type": "اسم مفرد مضاف إليه مجرور بالكسرة",
+    "explanation": "السائل البسيط الأساسي للحياة وعماد عيش القبائل والبلاد بالبادية."
+    },
+    "Remember": {
+    "translation": "تَذَكَّرْ / اسْتَعِدِ الذِّكْرَى",
+    "root": "ذ - ك - ر",
+    "type": "فعل أمر مبني على السكون للمخاطب",
+    "explanation": "طلب توجيه عقلي مباشر لاستدعاء تفاصيل رحلة الميناء والأسطول بالذاكرة."
+    },
+    "When": {
+    "translation": "عِنْدَمَا / حِينَمَا حَدَثَ كَذَا",
+    "root": "ح - ي - ن",
+    "type": "ظرف زمان موصول مبني في محل نصب",
+    "explanation": "ربط حدوث زمن الرحلة وعبور البحر بالتزامن الفعلي مع المشاهدة المهيبة."
+    },
+    "arrived": {
+    "translation": "وَصَلْنَا بسلامٍ",
+    "root": "و - ص - ل",
+    "type": "فعل ماضٍ مبني مسند لضمير المتكلمين نحن",
+    "explanation": "بلوغ الغاية الجغرافية المقصودة وحط الرحال بسلام في الميناء بعد السفر."
+    },
+    "Plymouth": {
+    "translation": "بِلِيمُوث (مِينَاء بِرِيطَانِيّ رَسْمِيّ)",
+    "root": "اسم علم جغرافي أعجمي",
+    "type": "اسم علم لميناء بريطاني",
+    "explanation": "المدينة والميناء البريطاني العريق الذي انطلقت منه البوارج الحربية بالرحلة."
+    },
+    "saw": {
+    "translation": "رَأَيْنَا / أَبْصَرْنَا",
+    "root": "ر - أ - ي",
+    "type": "فعل ماضٍ مبني مسند لضمير المتكلمين نحن",
+    "explanation": "الإدراك والمعاينة البصرية المباشرة للقطع والأسطول الحربي المهيب بالميناء."
+    },
+    "huge": {
+    "translation": "ضَخْمٌ جِدًّا / هَائِل",
+    "root": "ض - خ - م",
+    "type": "صفة منصوبة نعت للسفينة الموصوفة",
+    "explanation": "ما يربو ويتجاوز الحجم المعتاد والمألوف للرائي ويثير رهبة وتفوقاً باهراً."
+    },
+    "ship": {
+    "translation": "سَفِينَة / نَاقِلَة حَرْبِيَّة",
+    "root": "س - ف - ن",
+    "type": "اسم مفرد مؤنث منصوب مفعول به",
+    "explanation": "الناقلة والقطعة البحرية الكبيرة المصممة لعبور المحيطات والبحار العميقة."
+    },
+    "might": {
+    "translation": "قُوَّة / قُدْرَة عَسْكَرِيَّة",
+    "root": "ق - و - ي",
+    "type": "اسم مفرد منصوب / فعل مساعد للاحتمالية",
+    "explanation": "الهيبة والقدرة اللوجستية والحربية الفائقة للأسطول البحري الإمبراطوري."
+    },
+    "British": {
+    "translation": "بِرِيطَانِيّ",
+    "root": "اسم أعجمي منسوب صفة مذكر",
+    "type": "صفة منسوبة للمملكة المتحدة بريطانيا",
+    "explanation": "كل ما ينتسب لتاج بريطانيا العظمى وسياستها الحربية وبوارجها الأمنية."
+    },
+    "Navy": {
+    "translation": "الْأُسْطُول الْحَرْبِيّ / الْبَحْرِيَّة",
+    "root": "ب - ح - ر",
+    "type": "اسم مفرد معرف بال مضاف إليه مجرور",
+    "explanation": "القوات العسكرية المسلحة والقطع البحرية الكبيرة التابعة لبريطانيا."
+    },
+    "felt": {
+    "translation": "شَعَرْتُ / أَحْسَسْتُ فِي دَاخِلِي",
+    "root": "ش - ع - ر (أو ح - س - س)",
+    "type": "فعل ماضٍ مبني على السكون متصل بالتاء الفاعل",
+    "explanation": "نشوء التبدل العاطفي والقلبي الداخلي في وجدان الشاب بعد رؤية البوارج."
+    },
+    "so": {
+    "translation": "جِدًّا / لِهَذَا الْحَدِّ",
+    "root": "ظرف تأكيد ومبالغة",
+    "type": "ظرف مبالغة وتأكيد سياقي مبني",
+    "explanation": "أداة تأكيد تُسلط لتأكيد ضآلة الحجم أو شدة رهبة الإجلال البصري."
+    },
+    "small": {
+    "translation": "صَغِير / ضَئِيلُ الْحَجْمِ",
+    "root": "ص - غ - ر",
+    "type": "صفة منصوبة خبر لشعرت",
+    "explanation": "الإحساس بالصغر والضآلة أمام عظمة وفخامة أسطول الإمبراطورية."
+    },
+    "So": {
+    "translation": "لِذَلِكَ / هَكَذَا (رَابِطٌ سَبَبِيٌّ)",
+    "root": "حرف رابط للسبب والنتيجة",
+    "type": "حرف عطف وتأكيد سببي مبني",
+    "explanation": "أداة لربط وقوع شعور الرهبة بالوجدان كنتيجة تالية منطقية لرؤية البوارج."
+    },
+    "awe": {
+    "translation": "رَهْبَة / مَهَابَة",
+    "root": "ر - ه - ب",
+    "type": "اسم مفرد نكرة مفعول به منصوب",
+    "explanation": "الخوف والوجل والمهابة المصاحبة لإجلال عظمة وجلال المشهد والأسطول."
+    },
+    "Why": {
+    "translation": "لِمَاذَا / لِأَيِّ سَبَبٍ",
+    "root": "ل + م - ا الاستفهام",
+    "type": "اسم استفهام مركب مبني",
+    "explanation": "أداة يُستفسر بها لمعرفة الدافع والعلة الحقيقية خلف وجوب استماعهم لي."
+    },
+    "should": {
+    "translation": "يَنْبَغِي / يَجِبُ عَلَيْهِم",
+    "root": "و - ج - ب",
+    "type": "فعل مساعد لبيان الإلزام والوجوب الأدبي",
+    "explanation": "يدل على اللزوم والوجوب الأدبي والأخلاقي لتأمل وسماع الرأي والحديث."
+    },
+    "listen": {
+    "translation": "يَسْتَمِعُونَ / يُصْغُونَ لِـ",
+    "root": "س - م - ع (أو ن - ص - ت)",
+    "type": "فعل مضارع مذكر مجرد / مصدر مؤول",
+    "explanation": "الإصغاء الفعلي والاهتمام المباشر بنصائح الشاب وأقواله العميقة بالبادية."
+    },
+    "A": {
+    "translation": "أَدَاةُ تَنْكِيرٍ لِلْمَوْصُوفِ",
+    "root": "حرف تنكير ممهد",
+    "type": "حرف تنكير مبني للمفرد",
+    "explanation": "أداة تسبق الاسم النكرة لبيان عمومه وعدم تمييزه الفردي المسبق."
+    },
+    "boy": {
+    "translation": "شَاب / فَتًى يَافِع",
+    "root": "ش - ب - ب",
+    "type": "اسم مفرد نكرة مذكر مجرور بحرف الجر",
+    "explanation": "الفتى في مقتبل العمر واليافع القوي المتمرس بحياة وعزة البادية الصحراوية."
+    },
+    "from": {
+    "translation": "مِنْ أَرْجَاءِ / مَنْشَأُه مِنْ",
+    "root": "حرف جر لابتداء الغاية",
+    "type": "حرف جر مبني لبيان الابتداء والمنشأ",
+    "explanation": "حرف لبيان المنشأ والأصل والبيئة الجغرافية المألوفة للشاب."
+    },
+    "desert?": {
+    "translation": "الْصَّحْرَاءِ؟ / الْبَادِيَة؟",
+    "root": "ص - ح - ر",
+    "type": "اسم مفرد مجرور بالكسرة محلى بأل مستفهم به",
+    "explanation": "البادية والأراضي القاحلة المفتوحة التي تضم رجال وقبائل البادية الأباة."
+    },
+    "am": {
+    "translation": "أَكُونُ (لِلْمُتَكَلِّمِ)",
+    "root": "ك - و - ن",
+    "type": "فعل مضارع ناقص مسند لضمير المتكلم المفرد أنا",
+    "explanation": "تثبيت كينونة ووجود ومكانة المتكلم وتأكيد شرف الإمارة لديه."
+    },
+    "really": {
+    "translation": "حَقًّا / فِعْلًا بِيَقِينٍ",
+    "root": "ح - ق - ق",
+    "type": "ظرف حال منصوب لتأكيد الصدق",
+    "explanation": "أداة تطلق لتأكيد الصدق واليقين التام ومطابقة الجملة واللقب للواقع الفعلي."
+    },
+    "prince": {
+    "translation": "أَمِير (شَرَفُ مَكَانَةٍ)",
+    "root": "أ - م - ر",
+    "type": "اسم مذكر خبر مرفوع بالضمة",
+    "explanation": "من يملك لقب الإمارة والجاه والشرف العروبي الصحراوي والكلمة المسموعة."
+    },
+    "amongst": {
+    "translation": "بَيْنَ / وَسَطَ رِفَاقِ",
+    "root": "ب - ي - ن",
+    "type": "ظرف مكان مضاف منصوب",
+    "explanation": "تبيان الوجود وسط الرفاق والقبائل والرجال الأوفياء بالبادية والوطن الأصيل."
+    },
+    "tell": {
+    "translation": "يَقُولُ / يُخْبِرُ بِـ",
+    "root": "ق - و - ل (أو خ - ب - ر)",
+    "type": "فعل مضارع / فعل أمر سياقي للمتكلم",
+    "explanation": "النطق وإطلاق الحقيقة والقول الصادق المطابق للنية دون مواربة."
+    },
+    "spled": {
+    "translation": "رَائِع (اخْتِصَار لَفْظِيّ عَامِّيّ لِـ Splendid)",
+    "root": "ر - و - ع",
+    "type": "صفة عامية مختصرة خبر",
+    "explanation": "اختصار سياقي لطيف لكلمة (Splendid) ويعبر عن الإعجاب والمسامحة بمجلس الأمير."
+    },
+    "liked": {
+    "translation": "أَحْبَبْتُ / رَقَّ لَهُ قَلْبِي",
+    "root": "ح - ب - ب",
+    "type": "فعل ماضٍ مبني على السكون متصل بالتاء الفاعل",
+    "explanation": "الميل والود والاستحسان القلبي لصراحة الشاب ورفقته وقوله الصادق."
+    },
+    "lost": {
+    "translation": "تَائِهِينَ / ضَائِعِينَ",
+    "root": "ت - ي - ه (أو ض - ي - ع)",
+    "type": "صفة جمع مذكر منصوب بالياء سياقي حال",
+    "explanation": "فقدان المسار والهد"
+    },
   "اعتذر": {
     "translation": "To apologize",
     "root": "ع - ذ - ر",

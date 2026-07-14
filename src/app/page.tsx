@@ -47,7 +47,7 @@ export default function App() {
   
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
-  const [duration, setDuration] = useState(15);
+  const [duration, setDuration] = useState(438);
   const [selectedAudioTrack, setSelectedAudioTrack] = useState<'native' | 'english' | 'arabic-standard' | 'arabic-simplified'>('arabic-standard');
   const [selectedSubtitleTrack, setSelectedSubtitleTrack] = useState<'standard' | 'simplified' | 'english' | 'none'>('standard');
   const [activeSubtitle, setActiveSubtitle] = useState<string>('');
