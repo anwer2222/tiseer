@@ -74,7 +74,7 @@ export default function App() {
     { label: "فحص واستخراج ملفات الترجمة المصاصبة (WebVTT)...", duration: 500 },
     { label: "ربط الصوت العربي الفصيح ومزامنته بذاكرة التخزين...", duration: 500 },
     { label: "توليد الملف اللغوي والتوصيف الصرفي للمتعلمين المبتدئين...", duration: 600 },
-    { label: "جهاز مشغل اللغات جاهز بالكامل للتشغيل!", duration: 400 }
+    { label: "جهاز مشغل اللغات جاهز بالكامل للتشغيل!", duration: 8000 }
   ];
 
   const [arabicCues, setArabicCues] = useState<SubtitleCue[]>(fallbackArabicCues);
@@ -709,10 +709,10 @@ export default function App() {
                         onChange={(e) => setSelectedAudioTrack(e.target.value as any)}
                         className="bg-transparent border-none text-xs font-medium focus:ring-0 cursor-pointer text-foreground pl-4"
                       >
-                        {/* <option value="native" className="bg-card text-foreground">مسار الفيديو الأصلي (.mp4)</option> */}
-                        <option value="english" className="bg-card text-foreground">الترجمة الإنجليزية الصوتية (.wav)</option>
-                        <option value="arabic-standard" className="bg-card text-foreground">صوت العربية الفصحى (.wav)</option>
-                        <option value="arabic-simplified" className="bg-card text-foreground">صوت العربية المبسطة (.wav)</option>
+                        {/* <option value="native" className="bg-card text-foreground">مسار الفيديو الأصلي (.mp4)</option> صوت العربية الفصحى */}
+                        <option value="arabic-standard" className="bg-card text-foreground">الفيديو الأصلي</option>
+                        <option value="arabic-simplified" className="bg-card text-foreground">صوت العربية المبسطة</option>
+                        <option value="english" className="bg-card text-foreground">الترجمة الإنجليزية الصوتية</option>
                       </select>
                     </div>
 
