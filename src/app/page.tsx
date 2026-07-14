@@ -74,7 +74,7 @@ export default function App() {
     { label: "فحص واستخراج ملفات الترجمة المصاصبة (WebVTT)...", duration: 500 },
     { label: "ربط الصوت العربي الفصيح ومزامنته بذاكرة التخزين...", duration: 500 },
     { label: "توليد الملف اللغوي والتوصيف الصرفي للمتعلمين المبتدئين...", duration: 600 },
-    { label: "جهاز مشغل اللغات جاهز بالكامل للتشغيل!", duration: 8000 }
+    { label: "جهاز مشغل اللغات جاهز بالكامل للتشغيل!", duration: 700 }
   ];
 
   const [arabicCues, setArabicCues] = useState<SubtitleCue[]>(fallbackArabicCues);
