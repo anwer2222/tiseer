@@ -367,9 +367,9 @@ export default function App() {
           </div>
           <div>
             <h1 className="text-xl font-bold tracking-tight flex items-center gap-2">
-              مشغل تيسير <span className="text-xs px-2.5 py-0.5 bg-secondary text-secondary-foreground font-medium rounded-full border border-border font-mono">v2.0 SRT & Audio Matrix</span>
+             يسير<span className="text-xs px-2.5 py-0.5 bg-secondary text-secondary-foreground font-medium rounded-full border border-border font-mono">v2.0 SRT & Audio Matrix</span>
             </h1>
-            <p className="text-xs text-muted-foreground">للتعليم والاستماع المتدرج ومطابقة القواميس الحية</p>
+            <p className="text-xs text-muted-foreground">للاستماع  المتدرج</p>
           </div>
         </div>
         
@@ -377,7 +377,7 @@ export default function App() {
           {appState === 'player' && (
             <div className="flex items-center gap-2 px-3 py-1.5 bg-accent/40 rounded-lg border border-border">
               <span className="w-2 h-2 rounded-full bg-emerald-500 animate-ping" />
-              <span className="text-xs font-mono">تزامن الصوت والترجمات نشط</span>
+              <span className="text-xs font-mono">تزامن الصوت والنص نشط</span>
             </div>
           )}
         </div>
@@ -390,9 +390,9 @@ export default function App() {
         {appState === 'welcome' && (
           <div className="w-full max-w-3xl">
             <div className="text-center mb-8">
-              <h2 className="text-3xl font-extrabold tracking-tight mb-2">المشغل التفاعلي لتعلم العربية بالصوت والترجمة المصاحبة</h2>
+              <h2 className="text-3xl font-extrabold tracking-tight mb-2">لتبسيط محتوى النص وعرض محتواه الأصلي</h2>
               <p className="text-muted-foreground max-w-lg mx-auto text-sm leading-relaxed">
-                قم بسحب وإفلات ملف الفيديو المخصص لديك لفرزه، أو قم بتشغيل العرض التوضيحي المباشر مع جلب ملفات القاموس والـ SRT المتزامنة بالكامل من الذاكرة العامة.
+                قم بسحب ووضع ملف الفيديو الخاص بك لتصنيفه، أو قم بتشغيل العرض التوضيحي المباشر مع جلب ملفات القاموس والـ SRT المتزامنة بالكامل من الذاكرة العامة.
               </p>
             </div>
 
@@ -444,7 +444,7 @@ export default function App() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-foreground text-sm">تشغيل العرض التوضيحي السريع</h4>
-                  <p className="text-xs text-muted-foreground">اختبر على الفور محرك الفرز وقراءة نصوص SRT التفاعلية والقاموس المرفق.</p>
+                  <p className="text-xs text-muted-foreground">اختبر محرك الفرز وقراءة نصوص SRT التفاعلية والقاموس المرفق.</p>
                 </div>
               </div>
               <button 
@@ -587,7 +587,7 @@ export default function App() {
                       title="عرض الجملة العربية الفصحى الكاملة (انقر للتثبيت)"
                     >
                       <span className="text-[10px] font-bold border border-border px-1.5 py-0.5 rounded bg-secondary shadow-sm">
-                        ع
+                        الاصلي
                       </span>
                     </button>
                     
@@ -867,7 +867,7 @@ export default function App() {
                       <div>
                         <p className="text-sm font-semibold">لم يتم تحديد كلمة</p>
                         <p className="text-xs text-muted-foreground max-w-[200px] mx-auto mt-1">
-                          قم بتمرير الماوس أو انقر على الكلمات المظللة بالترجمة أسفل مشغل الفيديو لتشريح الكلمة صرفياً وتجذيرها هنا.
+                          قم بتمرير الماوس أو انقر على الكلمات المظللة بالترجمة أسفل مشغل الفيديو للتعرف على معنى الكلمة هنا.
                         </p>
                       </div>
                     </div>
@@ -883,7 +883,7 @@ export default function App() {
                     </div>
                     <div>
                       <p className="font-semibold text-foreground">نصيحة ذهبية للمتعلم</p>
-                      <p className="text-muted-foreground mt-0.5">ركز دائماً على فهم الحروف الجذرية (الْجِذْر). فتمكينك من الكشف عن الجذور الثلاثية يسهل فك رموز واشتقاقات مئات الكلمات تلقائياً!</p>
+                      <p className="text-muted-foreground mt-0.5">ركز على الفهم العام للمحتوى وتحقق من الكلمات الغريبة للتعرف على معناها وسماتها الصرفية. معرفتك لجذر الكلمة العربية يساعدك على زيادة حصيلتك اللغوية!</p>
                     </div>
                   </div>
                 </div>
@@ -899,7 +899,7 @@ export default function App() {
 
       <footer className="border-t border-border bg-card px-6 py-4 text-center text-xs text-muted-foreground">
         <div className="flex flex-col sm:flex-row items-center justify-between gap-2 max-w-7xl mx-auto">
-          <p>حقوق الطبع والنشر © 2026 تيسير للتعليم والاستماع المتدرج. مجمع الملك سلمان العالمي للغة العربية.</p>
+          <p>حقوق الطبع والنشر © 2026 يسير للاستماع المتدرج. مجمع الملك سلمان العالمي للغة العربية.</p>
           <div className="flex items-center gap-4">
             <button 
               onClick={() => setAppState('welcome')}
