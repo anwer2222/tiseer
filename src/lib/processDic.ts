@@ -22,12 +22,13 @@ const uniqueWords = [...new Set(words)];
 // Generate a template dictionary
 const dictionaryTemplate = {};
 uniqueWords.forEach(word => {
-  dictionaryTemplate[word] = {
-    translation: "",
-    root: "",
-    type: "",
-    explanation: ""
-  };
+  word
+  // dictionaryTemplate[word] = {
+  //   translation: "",
+  //   root: "",
+  //   type: "",
+  //   explanation: ""
+  // };
 });
 
 fs.writeFileSync('dictionaryTemplate.json', JSON.stringify(dictionaryTemplate, null, 2));
