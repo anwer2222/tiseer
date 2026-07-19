@@ -47,9 +47,9 @@ export default function App() {
   
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
-  const [duration, setDuration] = useState(438);
-  const [selectedAudioTrack, setSelectedAudioTrack] = useState<'native' | 'english' | 'arabic-standard' | 'arabic-simplified'>('arabic-standard');
-  const [selectedSubtitleTrack, setSelectedSubtitleTrack] = useState<'standard' | 'simplified' | 'english' | 'none'>('standard');
+  const [duration, setDuration] = useState(115);
+  const [selectedAudioTrack, setSelectedAudioTrack] = useState<'native' |'english' | 'arabic-standard' | 'arabic-simplified'>('native');
+  const [selectedSubtitleTrack, setSelectedSubtitleTrack] = useState<'standard' | 'arabic' | 'simplified' | 'english' | 'none'>('arabic');
   const [activeSubtitle, setActiveSubtitle] = useState<string>('');
   const [hoveredWord, setHoveredWord] = useState<string | null>(null);
   const [selectedWordDetails, setSelectedWordDetails] = useState<WordAnalysis | null>(null);
@@ -59,9 +59,10 @@ export default function App() {
   const videoRef = useRef<HTMLVideoElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
 
+  const audioArRef = useRef<HTMLAudioElement | null>(null);
+  const audioArLoRef = useRef<HTMLAudioElement | null>(null);
+  const audioArHiRef = useRef<HTMLAudioElement | null>(null);
   const audioEnRef = useRef<HTMLAudioElement | null>(null);
-  const audioArStdRef = useRef<HTMLAudioElement | null>(null);
-  const audioArSimpRef = useRef<HTMLAudioElement | null>(null);
 
   const audioContextRef = useRef<AudioContext | null>(null);
   const gainNodesRef = useRef<Record<string, GainNode>>({});
@@ -79,15 +80,17 @@ export default function App() {
 
   const [arabicCues, setArabicCues] = useState<SubtitleCue[]>(fallbackArabicCues);
   const [simpleArabicCues, setSimpleArabicCues] = useState<SubtitleCue[]>(fallbackSimpleArabicCues);
+  const [standardArabicCues, setStandardArabicCues] = useState<SubtitleCue[]>(fallbackSimpleArabicCues);
   const [englishCues, setEnglishCues] = useState<SubtitleCue[]>(fallbackEnglishCues);
   const [dictionary, setDictionary] = useState<Record<string, WordAnalysis>>(fallbackDictionary);
 
   useEffect(() => {
     async function loadResources() {
       try {
-        const [arRes, simpleArRes, enRes, dictRes] = await Promise.all([
+        const [arRes, simpleArRes, standardArRes, enRes, dictRes] = await Promise.all([
           fetch('/arabic.srt'),
-          fetch('/arabic_simple.srt'),
+          fetch('/lang_ar_lo.srt'),
+          fetch('/lang_ar_hi.srt'),
           fetch('/english.srt'),
           fetch('/dictionary.json')
         ]);
@@ -99,6 +102,10 @@ export default function App() {
         if (simpleArRes.ok) {
           const simpleArText = await simpleArRes.text();
           setSimpleArabicCues(parseSRT(simpleArText));
+        }
+        if (standardArRes.ok) {
+          const standardArText = await standardArRes.text();
+          setStandardArabicCues(parseSRT(standardArText));
         }
         if (enRes.ok) {
           const enText = await enRes.text();
@@ -165,9 +172,10 @@ export default function App() {
         gainNodesRef.current[id] = gainNode;
       };
 
+      if (audioArRef.current) setupTrack('arabic', audioArRef.current);
+      if (audioArLoRef.current) setupTrack('arabic-simplified', audioArLoRef.current);
+      if (audioArHiRef.current) setupTrack('arabic-standard', audioArHiRef.current);
       if (audioEnRef.current) setupTrack('english', audioEnRef.current);
-      if (audioArStdRef.current) setupTrack('arabic-standard', audioArStdRef.current);
-      if (audioArSimpRef.current) setupTrack('arabic-simplified', audioArSimpRef.current);
 
     } catch (e) {
       console.warn("فشل تهيئة نظام مزج الصوت الرقمي Web Audio Mixer:", e);
@@ -180,7 +188,7 @@ export default function App() {
 
     const syncTracks = () => {
       const targetTime = video.currentTime;
-      const audios = [audioEnRef.current, audioArStdRef.current, audioArSimpRef.current];
+      const audios = [audioArRef.current,audioArLoRef.current, audioArHiRef.current,audioEnRef.current,];
       
       audios.forEach(audio => {
         if (audio && Math.abs(audio.currentTime - targetTime) > 0.1) {
@@ -235,7 +243,7 @@ export default function App() {
     const video = videoRef.current;
     if (!video) return;
 
-    const audios = [audioEnRef.current, audioArStdRef.current, audioArSimpRef.current];
+    const audios = [audioArRef.current, audioArLoRef.current, audioArHiRef.current,audioEnRef.current];
 
     if (isPlaying) {
       if (audioContextRef.current?.state === 'suspended') {
@@ -274,11 +282,10 @@ export default function App() {
       return;
     }
 
-    const currentCues = selectedSubtitleTrack === 'standard' 
-      ? arabicCues 
-      : selectedSubtitleTrack === 'simplified' 
-        ? simpleArabicCues 
-        : englishCues;
+    const currentCues = selectedSubtitleTrack === 'arabic' ? arabicCues 
+      : selectedSubtitleTrack === 'simplified' ? simpleArabicCues 
+      : selectedSubtitleTrack === 'standard' ? standardArabicCues 
+      : englishCues;
 
     const currentCue = currentCues.find(
       cue => video.currentTime >= cue.startTime && video.currentTime <= cue.endTime
@@ -299,7 +306,7 @@ export default function App() {
     video.currentTime = val;
     setCurrentTime(val);
 
-    const audios = [audioEnRef.current, audioArStdRef.current, audioArSimpRef.current];
+    const audios = [audioArRef.current, audioArLoRef.current, audioArHiRef.current,audioEnRef.current];
     audios.forEach(audio => {
       if (audio) audio.currentTime = val;
     });
@@ -308,7 +315,7 @@ export default function App() {
   const getCleanWord = (word: string): string => {
     return word.trim()
       .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?؟،;]/g, "")
-      .replace(/[\u064B-\u065F]/g, ""); // تنظيف علامات التشكيل والتنوين
+      .replace(/[\u064B-\u0652\u0670]/g, ""); // تنظيف علامات التشكيل والتنوين
   };
 
   const handleWordClick = (word: string) => {
@@ -340,9 +347,10 @@ export default function App() {
     <div dir="rtl" className="min-h-screen bg-background text-foreground font-sans flex flex-col justify-between overflow-x-hidden select-none">
       
       {/* Hidden background multitrack audio players synced dynamically */}
+      <audio ref={audioArRef} src="/arabic.wav" preload="auto" />
+      <audio ref={audioArLoRef} src="/lang_ar_lo.wav" preload="auto" />
+      <audio ref={audioArHiRef} src="/lang_ar_hi.wav" preload="auto" />
       <audio ref={audioEnRef} src="/english.wav" preload="auto" />
-      <audio ref={audioArStdRef} src="/arabic_standard.wav" preload="auto" />
-      <audio ref={audioArSimpRef} src="/arabic_simplified.wav" preload="auto" />
 
       <header className="border-b border-border bg-card px-6 py-4 flex items-center justify-between shadow-sm">
         <div className="flex items-center gap-3">
@@ -714,7 +722,7 @@ export default function App() {
                       onClick={() => {
                         const video = videoRef.current;
                         if (video) video.currentTime = 0;
-                        const audios = [audioEnRef.current, audioArStdRef.current, audioArSimpRef.current];
+                        const audios = [audioArRef.current, audioArLoRef.current, audioArHiRef.current,audioEnRef.current];
                         audios.forEach(audio => {
                           if (audio) audio.currentTime = 0;
                         });
@@ -762,9 +770,9 @@ export default function App() {
                         onChange={(e) => setSelectedAudioTrack(e.target.value as any)}
                         className="bg-transparent border-none text-xs font-medium focus:ring-0 cursor-pointer text-foreground pl-4"
                       >
-                        {/* <option value="native" className="bg-card text-foreground">مسار الفيديو الأصلي (.mp4)</option> صوت العربية الفصحى */}
-                        <option value="arabic-standard" className="bg-card text-foreground">الفيديو الأصلي</option>
+                        <option value="native" className="bg-card text-foreground">الفيديو الأصلي</option>
                         <option value="arabic-simplified" className="bg-card text-foreground">صوت العربية المبسطة</option>
+                        <option value="arabic-standard" className="bg-card text-foreground">صوت العربية المتقدمة</option>
                         <option value="english" className="bg-card text-foreground">الترجمة الإنجليزية الصوتية</option>
                       </select>
                     </div>
@@ -776,8 +784,9 @@ export default function App() {
                         onChange={(e) => setSelectedSubtitleTrack(e.target.value as any)}
                         className="bg-transparent border-none text-xs font-medium focus:ring-0 cursor-pointer text-foreground pl-4"
                       >
-                        <option value="standard" className="bg-card text-foreground">العربية الفصحى</option>
+                        <option value="arabic" className="bg-card text-foreground">الفيديو الأصلي</option>
                         <option value="simplified" className="bg-card text-foreground">العربية المبسطة</option>
+                        <option value="standard" className="bg-card text-foreground">العربية المتقدمة</option>
                         <option value="english" className="bg-card text-foreground">الإنجليزية (English)</option>
                         {/* <option value="none" className="bg-card text-foreground">إيقاف الترجمة</option> */}
                       </select>
