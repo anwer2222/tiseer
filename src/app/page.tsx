@@ -78,6 +78,7 @@ export default function App() {
     { label: "جهاز مشغل اللغات جاهز بالكامل للتشغيل!", duration: 700 }
   ];
 
+  const [arabicCuesO, setArabicCuesO] = useState<SubtitleCue[]>(fallbackArabicCues);
   const [arabicCues, setArabicCues] = useState<SubtitleCue[]>(fallbackArabicCues);
   const [simpleArabicCues, setSimpleArabicCues] = useState<SubtitleCue[]>(fallbackSimpleArabicCues);
   const [standardArabicCues, setStandardArabicCues] = useState<SubtitleCue[]>(fallbackSimpleArabicCues);
@@ -87,13 +88,19 @@ export default function App() {
   useEffect(() => {
     async function loadResources() {
       try {
-        const [arRes, simpleArRes, standardArRes, enRes, dictRes] = await Promise.all([
+        const [arOrg, arRes, simpleArRes, standardArRes, enRes, dictRes] = await Promise.all([
+          fetch('/lang_ar_or.srt'),
           fetch('/arabic.srt'),
           fetch('/lang_ar_lo.srt'),
           fetch('/lang_ar_hi.srt'),
           fetch('/english.srt'),
           fetch('/dictionary.json')
         ]);
+
+        if (arOrg.ok) {
+          const arTextO = await arOrg.text();
+          setArabicCuesO(parseSRT(arTextO));
+        }
 
         if (arRes.ok) {
           const arText = await arRes.text();
@@ -338,7 +345,7 @@ export default function App() {
   };
 
   // جلب السطر العربي الفصيح في اللحظة الزمنية الحالية لإدراجه في الرمز الجديد
-  const activeArabicCueForMoment = (arabicCues.length > 0 ? arabicCues : fallbackArabicCues).find(
+  const activeArabicCueForMoment = (arabicCuesO.length > 0 ? arabicCuesO : fallbackArabicCues).find(
     cue => currentTime >= cue.startTime && currentTime <= cue.endTime
   );
   const [isArabicTooltipClicked, setIsArabicTooltipClicked] = useState(false);
@@ -583,7 +590,7 @@ export default function App() {
                 </div>
                 
                 {/* الميزة الجديدة: رمز "ع" يظهر عند وجود ترجمة نشطة لإظهار الجملة الفصحى الكاملة */}
-                {activeArabicCueForMoment && (
+                {activeArabicCueForMoment && selectedSubtitleTrack ==="simplified" && (
                   <div className="absolute bottom-2 left-3 group/arabic-full">
                     <button
                       onClick={() => setIsArabicTooltipClicked(!isArabicTooltipClicked)}
@@ -772,8 +779,8 @@ export default function App() {
                       >
                         <option value="native" className="bg-card text-foreground">الفيديو الأصلي</option>
                         <option value="arabic-simplified" className="bg-card text-foreground">صوت العربية المبسطة</option>
-                        <option value="arabic-standard" className="bg-card text-foreground">صوت العربية المتقدمة</option>
-                        <option value="english" className="bg-card text-foreground">الترجمة الإنجليزية الصوتية</option>
+                        {/* <option value="arabic-standard" className="bg-card text-foreground">صوت العربية المتقدمة</option>
+                        <option value="english" className="bg-card text-foreground">الترجمة الإنجليزية الصوتية</option> */}
                       </select>
                     </div>
 
@@ -786,8 +793,8 @@ export default function App() {
                       >
                         <option value="arabic" className="bg-card text-foreground">الفيديو الأصلي</option>
                         <option value="simplified" className="bg-card text-foreground">العربية المبسطة</option>
-                        <option value="standard" className="bg-card text-foreground">العربية المتقدمة</option>
-                        <option value="english" className="bg-card text-foreground">الإنجليزية (English)</option>
+                        {/* <option value="standard" className="bg-card text-foreground">العربية المتقدمة</option>
+                        <option value="english" className="bg-card text-foreground">الإنجليزية (English)</option> */}
                         {/* <option value="none" className="bg-card text-foreground">إيقاف الترجمة</option> */}
                       </select>
                     </div>
