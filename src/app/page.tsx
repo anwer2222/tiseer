@@ -2,6 +2,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { parseSRT, SubtitleCue } from '@/lib/srtParser';
+import Image from 'next/image';
 
 interface WordAnalysis {
   word: string;
@@ -382,7 +383,7 @@ export default function App() {
           </div>
           <div>
             <h1 className="text-xl font-bold tracking-tight flex items-center gap-2">
-             يسير<span className="text-xs px-2.5 py-0.5 bg-secondary text-secondary-foreground font-medium rounded-full border border-border font-mono">v2.0 SRT & Audio Matrix</span>
+             يسير<span className="text-xs px-2.5 py-0.5 bg-secondary text-secondary-foreground font-medium rounded-full border border-border font-mono">v2.0 SRT</span>
             </h1>
             <p className="text-xs text-muted-foreground">للاستماع  المتدرج</p>
           </div>
@@ -815,10 +816,11 @@ export default function App() {
                 <div>
                   <div className="flex items-center justify-between border-b border-border pb-3.5 mb-4">
                     <h3 className="font-bold text-sm tracking-wide text-foreground uppercase flex items-center gap-2">
-                      التحليل اللغوي والصرفي
+                    مدعم بمعجم الرياض
+                      {/* التحليل اللغوي والصرفي */}
                     </h3>
                     <span className="text-[11px] font-semibold bg-primary/10 text-primary px-2 py-0.5 rounded border border-primary/20">
-                      العربية للناطقين بغيرها
+                      <Image src="logo-brand.svg" alt="" width={100} height={50}/>
                     </span>
                   </div>
 
