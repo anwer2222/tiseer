@@ -684,7 +684,7 @@ export default function App() {
                     </motion.div>
                   ) : (
                     <div className="text-muted-foreground text-xs italic flex items-center gap-2">
-                      <span>لا توجد ترجمة نشطة حالياً ضمن هذا المدى الزمني للفيديو.</span>
+                      {/* <span>لا توجد ترجمة نشطة حالياً ضمن هذا المدى الزمني للفيديو.</span> */}
                     </div>
                   )}
                 </AnimatePresence>
