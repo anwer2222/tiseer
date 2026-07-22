@@ -796,7 +796,7 @@ export default function App() {
                         <option value="simplified" className="bg-card text-foreground">العربية المبسطة</option>
                         {/* <option value="standard" className="bg-card text-foreground">العربية المتقدمة</option>
                         <option value="english" className="bg-card text-foreground">الإنجليزية (English)</option> */}
-                        {/* <option value="none" className="bg-card text-foreground">إيقاف الترجمة</option> */}
+                        <option value="none" className="bg-card text-foreground">إيقاف الترجمة</option>
                       </select>
                     </div>
 
