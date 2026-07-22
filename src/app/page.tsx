@@ -459,7 +459,7 @@ export default function App() {
                   </svg>
                 </div>
                 <div>
-                  <h4 className="font-semibold text-foreground text-sm">تشغيل العرض التوضيحي السريع</h4>
+                  <h4 className="font-semibold text-foreground text-sm font-cairo">تشغيل العرض التوضيحي السريع</h4>
                   <p className="text-xs text-muted-foreground">اختبر محرك الفرز وقراءة نصوص SRT التفاعلية والقاموس المرفق.</p>
                 </div>
               </div>
